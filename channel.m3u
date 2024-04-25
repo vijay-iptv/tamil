@@ -62,7 +62,7 @@ http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236335
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="TAMIL",DTH | ISAIARUVI
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236362
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="TAMIL",AIR | ISAI ARUVI
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
+https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Max.png" group-title="TAMIL",AIR | JAYA MAX
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100122
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="TAMIL",AIR | VIJAY TAKKER
@@ -95,7 +95,7 @@ http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236349
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236368
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="TAMIL",DTH | 3 TAMIL HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="TAMIL",DTH | 3 TAMIL
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/3-Tamil.png" group-title="TAMIL",DTH | 3 TAMIL HD
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Athavan-TV.png" group-title="TAMIL",DTH | ATHAVAN HD
 http://b1g.fun:80/11111/11111/182003
@@ -196,7 +196,7 @@ http://sansat.net:88/Doctrtafnit/9JVAZO9OST/93659
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD-1.png" group-title="TAMIL",DTH | SONY PIX HD
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236894
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD-1.png" group-title="TAMIL",AIR | SONY PIX HD
-http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/75
+http://b1g.fun:80/11111/11111/397978
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/zee_cafehd.jpg" group-title="ENGLISH",AIR | ZEE CAFE HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/93678
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/colors_infinityhd.jpg" group-title="ENGLISH",AIR | COLORS INFINITY HD
@@ -209,7 +209,7 @@ http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/277343
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/237213
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="ENGLISH",DTH | SONY TEN 3 HD
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/277345
-#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="ENGLISH",AIR | SONY TEN 4 HD
+#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg" group-title="ENGLISH",AIR | SONY TEN 4 HD
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg" group-title="ENGLISH",AIR | SONY TEN 5 HD
+#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="ENGLISH",AIR | SONY TEN 5 HD
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
