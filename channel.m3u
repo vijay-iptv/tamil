@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="TAMIL",DTH | SUN TV HD
 http://b1g.fun:80/11111/11111/161944
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="TAMIL",DTH | 7S MUSIC 
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281866&extension=ts
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="TAMIL",AIR | TATA HOLLYWOOD TAMIL
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1097661&extension=ts
-#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1438226&extension=ts
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vaanavil.png" group-title="TAMIL",AIR | VAANAVIL
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281911&extension=ts
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="TAMIL",AIR | SUN TV HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="TAMIL",DTH | STAR VIJAY HD
@@ -43,6 +35,10 @@ http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100171
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236373
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/tata_sky_theatre.jpg" group-title="TAMIL",AIR | TATA SKY CINEMA
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100159
+#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1438226&extension=ts
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="TAMIL",AIR | TATA HOLLYWOOD TAMIL
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1097661&extension=ts
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Movie.png" group-title="TAMIL",DTH | JAYA MOVIES
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236295
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Jaya-Movie.png" group-title="TAMIL",AIR | JAYA MOVIES
@@ -81,6 +77,8 @@ http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100145
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236367
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mega-Musiq.png" group-title="TAMIL",DTH | MEGA MUSIQ
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236361
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="TAMIL",DTH | 7S MUSIC 
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281866&extension=ts
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png" group-title="TAMIL",DTH | 7STAR TV
 http://7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0846274573125433222986374.png" group-title="TAMIL",DTH | M MUSIC 
@@ -131,6 +129,8 @@ http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=155932&exten
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100119
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Podhigal.png" group-title="TAMIL",DTH | DD PODHIGAI
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100110
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vaanavil.png" group-title="TAMIL",AIR | VAANAVIL
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281911&extension=ts
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="TAMIL",DTH | D TAMIL
 http://sonyiptv.net:8080/Jibran/9cCnaXjeFWBn/279568
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel.png" group-title="TAMIL",AIR | DISCOVERY HD
