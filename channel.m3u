@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="TAMIL",DTH | SUN TV HD
 http://b1g.fun:80/11111/11111/161944
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="TAMIL",DTH | 7S MUSIC 
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281866&extension=ts
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="TAMIL",AIR | TATA HOLLYWOOD TAMIL
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1097661&extension=ts
+#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1438226&extension=ts
+#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vaanavil.png" group-title="TAMIL",AIR | VAANAVIL
+http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281911&extension=ts
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="TAMIL",AIR | SUN TV HD
 http://sansat.net:88/Doctrtafnit/9JVAZO9OST/100157
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Vijay-HD.png" group-title="TAMIL",DTH | STAR VIJAY HD
@@ -77,14 +85,6 @@ http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236361
 http://7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0846274573125433222986374.png" group-title="TAMIL",DTH | M MUSIC 
 https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/7S-Music.png" group-title="TAMIL",DTH | 7S MUSIC 
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281866&extension=ts
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png" group-title="TAMIL",AIR | TATA HOLLYWOOD TAMIL
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1097661&extension=ts
-#EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1438226&extension=ts
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vaanavil.png" group-title="TAMIL",AIR | VAANAVIL
-http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=281911&extension=ts
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Music.png" group-title="TAMIL",DTH | IBC MUSIC
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236313
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_0714135772718039547865531.png" group-title="TAMIL",DTH | IMAIYAM TV
