@@ -57,6 +57,8 @@ http://b1g.fun:80/11111/11111/164444
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="TAMIL",DTH | MK TV
 http://mixbix.xyz:8080/uNSUFJf3vKGU/MrfDccR52jhY/236366
+#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240404_0222386824106012371437814.png" group-title="TAMIL",DTH | THANDHI 1
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Music.png" group-title="TAMIL",DTH | SUN MUSIC HD
 http://b1g.fun:80/11111/11111/161943
 #EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-Music.png" group-title="TAMIL",AIR | SUN MUSIC HD
