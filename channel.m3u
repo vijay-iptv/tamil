@@ -89,7 +89,7 @@ http://b1g.ooo:80/324/324/192772
 http://mag.trexlive.me:80/live/Michael88/Michael88/281866.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/7star_TV.jpg" group-title="TAMIL",DTH | 7STAR TV
 http://7starcloud.com:1935/live/7star/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0846274573125433222986374.png" group-title="TAMIL",DTH | M MUSIC 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/M_Music.png" group-title="TAMIL",DTH | M MUSIC 
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/IBC_Isai.PNG" group-title="TAMIL",DTH | IBC MUSIC
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
