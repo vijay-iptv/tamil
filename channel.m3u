@@ -42,15 +42,15 @@ http://line.asztv.com:80/play/live.php?mac=00:1A:79:A3:C0:4C&stream=1097661&exte
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Movies.PNG" group-title="TAMIL",DTH | JAYA MOVIES
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/J_Movies_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Movies.PNG" group-title="TAMIL",AIR | JAYA MOVIES
-http://sansat.net:88/02059213497529/8604763320/100121
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100121
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_TV.PNG" group-title="TAMIL",DTH | RAJ TV
 http://starshare.live:8080/irfan/irfan/1619
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_TV.PNG" group-title="TAMIL",AIR | RAJ TV
-http://sansat.net:88/02059213497529/8604763320/100147
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100147
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Digital.PNG" group-title="TAMIL",DTH | RAJ DIGITAL PLUS
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236293
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Digital.PNG" group-title="TAMIL",AIR | RAJ DIGITAL PLUS
-http://sansat.net:88/02059213497529/8604763320/100144
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100144
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner.PNG" group-title="TAMIL",DTH | KALAIGNAR TV
 http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/236345
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner.PNG" group-title="TAMIL",AIR | KALAIGNAR TV
@@ -72,11 +72,11 @@ https://ardinesh-jiotv-portal.puspas.com.np/auth940rgsPIc4/live/jiotv-portal-uni
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Isai_Aruvi.PNG" group-title="TAMIL",AIR | ISAI ARUVI
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Max.PNG" group-title="TAMIL",AIR | JAYA MAX
-http://sansat.net:88/02059213497529/8604763320/100122
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vijay_Takker.jpg" group-title="TAMIL",AIR | VIJAY TAKKER
 https://ardinesh-jiotv-portal.puspas.com.np/auth940rgsPIc4/live/jiotv-portal-universal/vijay-takkar/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Musix.PNG" group-title="TAMIL",AIR | RAJ MUSIX
-http://sansat.net:88/02059213497529/8604763320/100145
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100145
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_Tunes.jpg" group-title="TAMIL",DTH | MK TUNES
 http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/236367
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_Six.png" group-title="TAMIL",DTH | MK SIX
@@ -162,13 +162,13 @@ http://sansat.net:88/02059213497529/8604763320/100116
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Chutti_TV.PNG" group-title="TAMIL",DTH | CHUTTI TV
 http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/236370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Chutti_TV.PNG" group-title="TAMIL",AIR | CHUTTI TV
-http://sansat.net:88/02059213497529/8604763320/100108
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100108
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Pogo_TV.PNG" group-title="TAMIL",DTH | POGO TV
 http://starshare.live:8080/irfan/irfan/66165
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_Kids.JPG" group-title="TAMIL",AIR | DISCOVERY KIDS
 http://sansat.net:88/02059213497529/8604763320/100112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Yay.PNG" group-title="TAMIL",AIR | SONY YAY
-http://sansat.net:88/02059213497529/8604763320/100152
+http://sansat.net:25461/fatahsaybi/IC1BSLZU0T/100152
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Cartoon_Network.PNG" group-title="TAMIL",DTH | CARTOON NETWORK 
 http://103.131.214.129:9985/stream/channelid/1343860419.ts?ticket=385181981824C20C25624C5888D7E9CA43B80852&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sonic.JPG" group-title="TAMIL",DTH | NICK SONIC
