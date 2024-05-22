@@ -220,7 +220,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=5353&deviceMac=00:1A:79:17:D4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Pix_HD.PNG" group-title="TAMIL",DTH | SONY PIX HD
 http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/236894
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Pix_HD.PNG" group-title="TAMIL",AIR | SONY PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083046.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Cafe_HD.JPG" group-title="ENGLISH",AIR | ZEE CAFE HD
 http://b1g.ooo:80/324/324/161950
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Colors_Infinity_HD.JPG" group-title="ENGLISH",AIR | COLORS INFINITY HD
