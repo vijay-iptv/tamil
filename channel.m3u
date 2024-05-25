@@ -142,7 +142,7 @@ http://xtv.ooo:8080/359052742/470428329/244522
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vaanavil.png" group-title="TAMIL",AIR | VAANAVIL
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/D_Tamil.png" group-title="TAMIL",DTH | D TAMIL
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Discovery_Channel_Tamil_MOB/Fallback/index.m3u8
+https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/d-tamil-hd/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_HD.PNG" group-title="TAMIL",AIR | DISCOVERY HD
 http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100113
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Animal_planet_HD.JPG" group-title="TAMIL",DTH | ANIMAL PLANET HD
