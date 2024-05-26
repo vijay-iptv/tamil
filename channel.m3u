@@ -30,7 +30,7 @@ http://line.extraott-iptv.com:88/1424778592/5454283207/400159597
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Thirai.jpg" group-title="TAMIL",AIR | ZEE THIRAI HD
 http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100171
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Thirai.jpg" group-title="TAMIL",AIR | ZEE THIRAI HD
-http://starshare.live:8080/rvdgdf7647564/bvchgfd235454/181966
+http://b1g.ooo:80/live/324/324/663329.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Tamil_Cinema.jpg" group-title="TAMIL",AIR | TATA PLAY CINEMA
 http://sansat.net:88/02059213497529/8604763320/100159
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
@@ -122,7 +122,7 @@ http://sansat.net:88/02059213497529/8604763320/100162
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Moon_TV.PNG" group-title="TAMIL",DTH | MOON TV
 http://sansat.net:88/02059213497529/8604763320/100133
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_TV.PNG" group-title="TAMIL",DTH | MEGA TV
-http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/236363
+http://b1g.ooo:80/live/324/324/663324.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Puthuyugam.PNG" group-title="TAMIL",DTH | PUTHUYUGAM
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236329
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vasanth_TV.PNG" group-title="TAMIL",DTH | VASANTH TV
@@ -172,7 +172,7 @@ http://103.131.214.129:9985/stream/channelid/1343860419.ts?ticket=385181981824C2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sonic.JPG" group-title="TAMIL",DTH | NICK SONIC
 http://line.extraott-iptv.com:88/live/1424778592/5454283207/400159784.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nick.JPG" group-title="TAMIL",DTH | NICK TAMIL
-http://103.131.214.129:9985/stream/channelid/1425054071.ts?ticket=1AC802617A14321C5E932839ABCF6C2901EDDFEF&profile=pass
+http://b1g.ooo:80/live/324/324/20805.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_News.PNG" group-title="TAMIL",DTH | SUN NEWS
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236340
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Plus.PNG" group-title="TAMIL",AIR | JAYA PLUS
@@ -226,14 +226,14 @@ http://b1g.ooo:80/324/324/161950
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Colors_Infinity_HD.JPG" group-title="ENGLISH",AIR | COLORS INFINITY HD
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236900
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="ENGLISH",DTH | SONY TEN 1 HD
-http://watchindia.net:8880/live/69354/82115/1756.ts
+https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-1-4k/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="ENGLISH",AIR | SONY TEN 1 HD
 http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/277343
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_2.JPG" group-title="ENGLISH",DTH | SONY TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-2-4k/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_3.JPG" group-title="ENGLISH",DTH | SONY TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-3-4k/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_4.JPG" group-title="ENGLISH",AIR | SONY TEN 4 HD
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-4-4k-2/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_5.JPG" group-title="ENGLISH",AIR | SONY TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-5-4k-2/index.ts
