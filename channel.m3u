@@ -50,7 +50,7 @@ http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236293
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Digital.PNG" group-title="TAMIL",AIR | RAJ DIGITAL PLUS
 http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100144
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner.PNG" group-title="TAMIL",DTH | KALAIGNAR TV
-http://line.extraott-iptv.com:88/live/1424778592/5454283207/187114.m3u8
+http://line.extraott-iptv.com:88/1424778592/5454283207/187114
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner.PNG" group-title="TAMIL",AIR | KALAIGNAR TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_TV.png" group-title="TAMIL",DTH | MK TV
@@ -122,7 +122,7 @@ http://sansat.net:88/02059213497529/8604763320/100162
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Moon_TV.PNG" group-title="TAMIL",DTH | MOON TV
 http://sansat.net:88/02059213497529/8604763320/100133
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_TV.PNG" group-title="TAMIL",DTH | MEGA TV
-http://b1g.ooo:80/live/324/324/663324.ts
+http://b1g.ooo:80/324/324/663324
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Puthuyugam.PNG" group-title="TAMIL",DTH | PUTHUYUGAM
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236329
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vasanth_TV.PNG" group-title="TAMIL",DTH | VASANTH TV
@@ -146,9 +146,9 @@ http://watchindia.net:8880/22453/32498/2085
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_HD.PNG" group-title="TAMIL",AIR | DISCOVERY HD
 http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100113
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Animal_planet_HD.JPG" group-title="TAMIL",DTH | ANIMAL PLANET HD
-http://line.extraott-iptv.com:88/live/1424778592/5454283207/400159824.m3u8
+http://line.extraott-iptv.com:88/1424778592/5454283207/400159824
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Animal_planet_HD.JPG" group-title="TAMIL",AIR | ANIMAL PLANET HD
-http://b1g.ooo:80/live/324/324/161834.ts
+http://b1g.ooo:80/324/324/161834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nat_Wild_HD.JPG" group-title="TAMIL",AIR | NAT GEO WILD HD
 http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100135
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/National_Geo_Tv_HD.PNG" group-title="TAMIL",AIR | NATIONAL GEO GRAPHIC HD
@@ -162,7 +162,7 @@ http://mixbix.xyz:8080/uvqzZmLeGmED/gwSyzSBTEuPa/236370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Chutti_TV.PNG" group-title="TAMIL",AIR | CHUTTI TV
 http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100108
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Pogo_TV.PNG" group-title="TAMIL",DTH | POGO TV
-http://line.extraott-iptv.com:88/live/1424778592/5454283207/400159785.m3u8
+http://line.extraott-iptv.com:88/1424778592/5454283207/400159785
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_Kids.JPG" group-title="TAMIL",AIR | DISCOVERY KIDS
 http://sansat.net:88/02059213497529/8604763320/100112
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Yay.PNG" group-title="TAMIL",AIR | SONY YAY
@@ -170,7 +170,7 @@ http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100152
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Cartoon_Network.PNG" group-title="TAMIL",DTH | CARTOON NETWORK 
 http://103.131.214.129:9985/stream/channelid/1343860419.ts?ticket=385181981824C20C25624C5888D7E9CA43B80852&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sonic.JPG" group-title="TAMIL",DTH | NICK SONIC
-http://line.extraott-iptv.com:88/live/1424778592/5454283207/400159784.m3u8
+http://line.extraott-iptv.com:88/1424778592/5454283207/400159784
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nick.JPG" group-title="TAMIL",DTH | NICK TAMIL
 http://b1g.ooo:80/324/324/20805
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_News.PNG" group-title="TAMIL",DTH | SUN NEWS
