@@ -223,6 +223,12 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil-hd/index.ts
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tamil/index.ts
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="TATA PLAY",Kalaignar TV
 https://tplay.dinesh29.com.np/live/tataplay-universal/kalaignar-tv/index.ts
+#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-38738-juc4a1ig-v5%2FimageContent-38738-juc4a1ig-m8.png&w=256&q=75" group-title="TATA PLAY",Jaya TV
+http://sansat.net:25461/02026339288465/02026339288465/100124
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png" group-title="TATA PLAY",Vijay Takkar
+http://mixbix.xyz:8080/live/EycwsGSTFgf9/ddcNwHq7ugn7/236358.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/VISUHD_Thumbnail-v1/VISUHD_Thumbnail.png" group-title="TATA PLAY",Vijay Super HD
+http://mixbix.xyz:8080/live/EycwsGSTFgf9/ddcNwHq7ugn7/236291.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png" group-title="TATA PLAY",Tata Play Toons+
 https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-toons-5/index.ts
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png" group-title="TATA PLAY",Raj TV
