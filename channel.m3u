@@ -148,19 +148,19 @@ http://xtv.ooo:8080/84826314/28341238/244595
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Animal_planet_HD.JPG" group-title="TAMIL",AIR | ANIMAL PLANET HD
 http://b1g.ooo:80/324/324/161834
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nat_Wild_HD.JPG" group-title="TAMIL",AIR | NAT GEO WILD HD
-https://stream1.freetv.fun/natgeo-wild-tamil-1.m3u8
+http://sansat.net:88/02028725529208/0978cdfbc9375f69/100135
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/National_Geo_Tv_HD.PNG" group-title="TAMIL",AIR | NATIONAL GEO GRAPHIC HD
-http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/100136
+http://sansat.net:88/02028725529208/0978cdfbc9375f69/100136
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_BBC_Earth_HD.JPG" group-title="TAMIL",AIR | SONY BBC EARTH HD
 http://sansat.net:88/02028725529208/0978cdfbc9375f69/100151
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/History_Tv_18_HD.PNG" group-title="TAMIL",AIR | HISTORY 18 HD
-https://stream1.freetv.fun/history-tamil-1.m3u8
+http://sansat.net:88/02028725529208/0978cdfbc9375f69/100116
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Chutti_TV.PNG" group-title="TAMIL",DTH | CHUTTI TV
 http://xtv.ooo:8080/84826314/28341238/244594
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Chutti_TV.PNG" group-title="TAMIL",AIR | CHUTTI TV
 http://sansat.net:88/02028725529208/0978cdfbc9375f69/100108
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Pogo_TV.PNG" group-title="TAMIL",DTH | POGO TV
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8#a534d233df0d5acad14fb3ec60267cd5f57e4b066a98d0976aae857be31d3255
+http://ptuf.ridsys.in/riptv/live/stream207/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_Kids.JPG" group-title="TAMIL",AIR | DISCOVERY KIDS
 https://stream1.freetv.fun/discovery-kids-tamil-1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Yay.PNG" group-title="TAMIL",AIR | SONY YAY
@@ -168,9 +168,9 @@ http://sansat.net:88/02028725529208/0978cdfbc9375f69/100152
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Cartoon_Network.PNG" group-title="TAMIL",DTH | CARTOON NETWORK 
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=817&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sonic.JPG" group-title="TAMIL",DTH | NICK SONIC
-https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=290&e=.m3u8
+http://ptuf.ridsys.in/riptv/live/stream115/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nick.JPG" group-title="TAMIL",DTH | NICK TAMIL
-http://starshare.live:8080/live/irfan/irfan/66163.ts
+http://ptuf.ridsys.in/riptv/live/stream207/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_News.PNG" group-title="TAMIL",DTH | SUN NEWS
 https://news.codeautoplay.workers.dev/?codeby=nd&channel=sunnews
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Plus.PNG" group-title="TAMIL",AIR | JAYA PLUS
