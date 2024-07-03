@@ -20,7 +20,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Colors_Tamil_HD.PNG" group-title="TAMIL",AIR | COLORS TAMIL HD
 http://116.202.46.40:9023/COLORS_TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_TV_HD.PNG" group-title="TAMIL",DTH | JAYA TV HD
-http://xtv.ooo:8080/6455546/435537/244572
+https://tplay.dinesh29.com.np/live/tataplay-universal/jaya-tv-hd/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_TV_HD.PNG" group-title="TAMIL",AIR | JAYA TV HD
 http://116.202.46.40:9023/JAYA_TV_TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vijay_Super_HD.jpg" group-title="TAMIL",DTH | VIJAY SUPER HD
@@ -54,7 +54,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/kalaignar-tv/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner.PNG" group-title="TAMIL",AIR | KALAIGNAR TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_TV.png" group-title="TAMIL",DTH | MK TV
-http://xtv.ooo:8080/6455546/435537/244541
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/MK_TV_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Thanthi_1.png" group-title="TAMIL",DTH | THANDHI 1
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_Music_HD.PNG" group-title="TAMIL",DTH | SUN MUSIC HD
@@ -72,13 +72,13 @@ https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Max.PNG" group-title="TAMIL",AIR | JAYA MAX
 http://116.202.46.40:9023/JAYA_MAX_TAMIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vijay_Takker.jpg" group-title="TAMIL",AIR | VIJAY TAKKER
-http://ott1.co:8080/08042023/123456789/23869
+http://starshare.live:8080/irfan/irfan/23869
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Musix.PNG" group-title="TAMIL",AIR | RAJ MUSIX
 http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/43416
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_Tunes.jpg" group-title="TAMIL",DTH | MK TUNES
-http://xtv.ooo:8080/6455546/435537/244621
+http://starshare.live:8080/irfan/irfan/37452
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_Six.png" group-title="TAMIL",DTH | MK SIX
-http://ott1.co:8080/08042023/123456789/37453
+http://starshare.live:8080/irfan/irfan/37453
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_Musiq.PNG" group-title="TAMIL",AIR | MEGA MUSIQ
 http://ptuf.ridsys.in/riptv/live/stream222/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_Musiq.PNG" group-title="TAMIL",DTH | MEGA MUSIQ
@@ -198,7 +198,7 @@ http://applelive.in/winvisiontv/winvisiontv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Tamil_News.JPG" group-title="TAMIL",DTH | ZEE NEWS TAMIL
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Sports_Tamil_HD.JPG" group-title="TAMIL",AIR | STAR SPORTS TAMIL HD
-http://sansat.net:88/02028725529208/0978cdfbc9375f69/93731
+http://ptuf.ridsys.in/riptv/live/stream127/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Sports_Tamil_HD.JPG" group-title="TAMIL",DTH | STAR SPORTS TAMIL HD
 http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/275
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Tata_IPL.PNG" group-title="TAMIL",JIO | IPL TAMIL HD 1
@@ -306,32 +306,32 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/nambikkai-tv/index.ts
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png" group-title="TATA PLAY",SVBC 2
 https://tplay.dinesh29.com.np/live/tataplay-universal/svbc-2/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_HD.JPG" group-title="ENGLISH",DTH | STAR MOVIES HD
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/303426
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/198
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_HD.JPG" group-title="ENGLISH",AIR | STAR MOVIES HD
-http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/93668
+http://ptuf.ridsys.in/riptv/live/stream224/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_Select_HD.JPG" group-title="ENGLISH",DTH | STAR MOVIES SELECT HD
-http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/93669
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/199
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_Select_HD.JPG" group-title="ENGLISH",AIR | STAR MOVIES SELECT HD
 http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/303420
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Movies_Now_HD.JPG" group-title="ENGLISH",AIR | MOVIES NOW HD
-http://sansat.net:88/tSMZeBMvwqDvBfU/4tRHN2BecGdYZpc/93659
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/162
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Pix_HD.PNG" group-title="TAMIL",DTH | SONY PIX HD
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/236894
+http://starshare.live:8080/irfan/irfan/9381
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Pix_HD.PNG" group-title="TAMIL",AIR | SONY PIX HD
 http://b1g.ooo:80/324/324/397978
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Cafe_HD.JPG" group-title="ENGLISH",AIR | ZEE CAFE HD
-http://b1g.ooo:80/324/324/161950
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/212
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Colors_Infinity_HD.JPG" group-title="ENGLISH",AIR | COLORS INFINITY HD
-http://mixbix.xyz:8080/L8r8WP9dEnuA/rnXMCGs5BGLe/303434
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="ENGLISH",DTH | SONY TEN 1 HD
-https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-1-4k/index.ts
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/289
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="ENGLISH",AIR | SONY TEN 1 HD
 http://watchindia.net:8880/22453/32498/2215
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_2.JPG" group-title="ENGLISH",DTH | SONY TEN 2 HD
-https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-2-4k/index.ts
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/290
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_3.JPG" group-title="ENGLISH",DTH | SONY TEN 3 HD
-https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-3-4k/index.ts
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/291
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_4.JPG" group-title="ENGLISH",AIR | SONY TEN 4 HD
-https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-4-4k-2/index.ts
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/105349
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_5.JPG" group-title="ENGLISH",AIR | SONY TEN 5 HD
-https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/sony-sports-5-4k-2/index.ts
+http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/105350
