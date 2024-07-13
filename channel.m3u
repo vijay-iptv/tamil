@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" # ████████╗███████╗███╗ ██╗███████╗██╗ ██╗ ████████╗ █████╗ ████████╗ █████╗ ██████╗ ██╗ █████╗ ██╗ ██╗ # ╚══██╔══╝██╔════╝████╗ ██║██╔════╝██║ ██║ ╚══██╔══╝██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██║ ██╔══██╗╚██╗ ██╔╝ # ██║ ███████╗██╔██╗ ██║█████╗ ███████║ ██║ ███████║ ██║ ███████║██████╔╝██║ ███████║ ╚████╔╝ # ██║ ╚════██║██║╚██╗██║██╔══╝ ██╔══██║ ██║ ██╔══██║ ██║ ██╔══██║██╔═══╝ ██║ ██╔══██║ ╚██╔╝ # ██║ ███████║██║ ╚████║███████╗██║ ██║ ██║ ██║ ██║ ██║ ██║ ██║██║ ███████╗██║ ██║ ██║ # ╚═╝ ╚══════╝╚═╝ ╚═══╝╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝ ╚═╝╚═╝ ╚══════╝╚═╝ ╚═╝ ╚═╝ # ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― # ✨ TATAPLAY WIDEVINE [INDIA ONLY] # 👤 LOGIN USER : Vijayan K # 👋🏼 JOIN US : https://tsneh.vercel.app/ts-tg
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_Tv_HD.PNG" group-title="TAMIL",DTH | SUN TV HD
 http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/43421
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_Tv_HD.PNG" group-title="TAMIL",AIR | SUN TV HD
@@ -205,106 +205,6 @@ http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/275
 http://tnm3u.jw.lt/tv/jio-tamil.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Tata_IPL.PNG" group-title="TAMIL",JIO | IPL TAMIL HD 2
 https://mrsmarts.shop/tm/b_tm_20.php?id=662149
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="TATA PLAY",Sun TV HD
-https://tp.snehiptv-s9.workers.dev/521.mpd
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTAMCL_Thumbnail-v1/TPTAMCL_Thumbnail.png" group-title="TATA PLAY",Tata Play Tamil Classics 
-https://tp.snehiptv-s9.workers.dev/1260.mpd
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="TATA PLAY",Sun Life
-https://tp.snehiptv-s4.workers.dev/474.mpd
-#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="TATA PLAY",Star Vijay HD
-https://tp.snehiptv-s4.workers.dev/496.mpd
-#EXTINF:-1,Tata Play Hollywood Local Tamil
-
-#EXTINF:-1,Zee Tamil HD
-
-#EXTINF:-1,Zee Tamil
-
-#EXTINF:-1,Colors Tamil HD
-
-#EXTINF:-1,Colors Tamil
-
-#EXTINF:-1,Jaya TV HD
-
-#EXTINF:-1,Kalaignar TV
-
-#EXTINF:-1,Tata Play Toons+
-
-#EXTINF:-1,Raj TV
-
-#EXTINF:-1,D Tamil
-
-#EXTINF:-1,Raj Digital Plus 
-
-#EXTINF:-1,Mega TV
-
-#EXTINF:-1,Tamil Naaptol
-
-#EXTINF:-1,Vasanth TV
-
-#EXTINF:-1,Sirippoli
-
-#EXTINF:-1,Polimer TV
-
-#EXTINF:-1,Makkal TV
-
-#EXTINF:-1,Vendhar TV
-
-#EXTINF:-1,Thanthi One
-
-#EXTINF:-1,KTV HD
-
-#EXTINF:-1,J Movies
-
-#EXTINF:-1,Zee Thirai HD
-
-#EXTINF:-1,Zee Thirai
-
-#EXTINF:-1,Travelxp Tamil
-
-#EXTINF:-1,Puthiya Thalaimurai
-
-#EXTINF:-1,Thanthi TV
-
-#EXTINF:-1,Jaya Plus
-
-#EXTINF:-1,Polimer News
-
-#EXTINF:-1,News18 Tamil Nadu
-
-#EXTINF:-1,Seithigal TV
-
-#EXTINF:-1,Raj News Tamil
-
-#EXTINF:-1,Sathiyam TV
-
-#EXTINF:-1,MalaiMurasu Seithigal
-
-#EXTINF:-1,News J
-
-#EXTINF:-1,News Tamil 24x7
-
-#EXTINF:-1,Tamil Janam
-
-#EXTINF:-1,Jaya Max
-
-#EXTINF:-1,Raj Musix
-
-#EXTINF:-1,Isaiaruvi
-
-#EXTINF:-1,Murasu TV
-
-#EXTINF:-1,Mega Musiq
-
-#EXTINF:-1,Jothi TV
-
-#EXTINF:-1,Madha TV
-
-#EXTINF:-1,Angel TV
-
-#EXTINF:-1,Nambikkai TV
-
-#EXTINF:-1,DD Tamil
-https://tp.snehiptv-s11.workers.dev/334.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_HD.JPG" group-title="ENGLISH",DTH | STAR MOVIES HD
 http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/198
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_HD.JPG" group-title="ENGLISH",AIR | STAR MOVIES HD
