@@ -176,7 +176,7 @@ https://mannanplay-yt-live.mayilgamingmd.workers.dev/stream/UCYlh4lH762HvHt6mmie
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Plus.PNG" group-title="TAMIL",AIR | JAYA PLUS
 https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Puthiya_Thalaimurai.PNG" group-title="TAMIL",DTH | PUTHIYA THALAIMURAI
-https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Polimer_News.PNG" group-title="TAMIL",AIR | POLIMER NEWS
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner_News.PNG" group-title="TAMIL",DTH | KALAIGNAR NEWS
@@ -190,7 +190,7 @@ https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_7.PNG" group-title="TAMIL",DTH | NEWS 7
 https://mannanplay-yt-live.mayilgamingmd.workers.dev/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_Tamil.PNG" group-title="TAMIL",DTH | NEWS TAMIL 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720902634/ei/io-SZpOyKKafp-oPppKnsAU/ip/172.71.186.15/id/kYQoKA80p10.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51214394/txs/51214391%2C51214392%2C51214393%2C51214394/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZ1k3lf41yguH_XJOFPDeMhTf2tzdk5zRQJVe__kjUjeUbVcqpU9BWKHRUU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKoATNPAiSEG6RHUhJ2t0eYBQU4oMGW8JU1X8SJwSetXAiBpgK-SZAho3i6PfKQFSZBnRUWxd9lbKGE3XoZtHOU_BQ%3D%3D/file/index.m3u8
+https://mannanplay-yt-live.mayilgamingmd.workers.dev/stream/UCtbo6_eDG7zEtaOtcSltJkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_18_Tamilnadu.PNG" group-title="TAMIL",DTH | NEWS 18 TAMILNADU
 http://tv.cloudcdn.me/00:1A:79:17:C1:7F/D9CA0D47A1879/43412
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_News.jpg" group-title="TAMIL",DTH | RAJ NEWS
