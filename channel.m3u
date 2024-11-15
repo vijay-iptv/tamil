@@ -10,19 +10,19 @@ http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/43423.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Colors_Tamil_HD.PNG" group-title="TAMIL",DTH | COLORS TAMIL HD
 http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/43408.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_TV_HD.PNG" group-title="TAMIL",DTH | JAYA TV HD
-https://iptv-live-play1.streamready.in/live/media6/jaya_tv/vdashc/jaya_tv.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63318.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vijay_Super_HD.jpg" group-title="TAMIL",DTH | VIJAY SUPER HD
-https://iptv-live-play1.streamready.in/live/media17/vijay_super_hd/dashc/vijay_super_hd.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63531.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Thirai.jpg" group-title="TAMIL",AIR | ZEE THIRAI HD
-https://iptv-live-play1.streamready.in/live/media17/zee_thirai_hd/dashc/zee_thirai_hd.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/112776.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Tamil_Cinema.jpg" group-title="TAMIL",AIR | TATA PLAY CINEMA
-https://yuvraj49.xyz/tp-wfrJv/manifest.mpd?id=1260
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63320.m3u8
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
 https://ardinesh-jiotv-portal.puspas.com.np/auth75WiSwb05c/live/jiotv-portal-universal/cinemania-tamil-4k/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Hollywood_Local.PNG" group-title="TAMIL",AIR | TATA HOLLYWOOD TAMIL
 https://yuvraj49.xyz/tp-wfrJv/manifest.mpd?id=1167
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Movies.PNG" group-title="TAMIL",DTH | JAYA MOVIES
-https://iptv-live-play1.streamready.in/live/media2/j_movies/vdashc/j_movies.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/143554.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_TV.PNG" group-title="TAMIL",DTH | RAJ TV
 http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/43417.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Digital.PNG" group-title="TAMIL",DTH | RAJ DIGITAL PLUS
@@ -36,13 +36,13 @@ https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_Music_HD.PNG" group-title="TAMIL",DTH | SUN MUSIC HD
 http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/43420.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_Life.PNG" group-title="TAMIL",DTH | SUN LIFE
-https://iptv-live-play1.streamready.in/live/media4/sun_life/dashc/sun_life.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63268.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Isai_Aruvi.PNG" group-title="TAMIL",AIR | ISAI ARUVI
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Max.PNG" group-title="TAMIL",AIR | JAYA MAX
 http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/43410.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vijay_Takker.jpg" group-title="TAMIL",AIR | VIJAY TAKKER
-https://iptv-live-play1.streamready.in/live/media16/vijay_takkar/dashc/vijay_takkar.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1441507.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Raj_Musix.PNG" group-title="TAMIL",AIR | RAJ MUSIX
 http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/43416.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/MK_Tunes.jpg" group-title="TAMIL",DTH | MK TUNES
@@ -52,7 +52,7 @@ http://192.168.1.8:8080/jiotv/live.php?id=1647&key=JITENDRAUNATTI&e=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_Musiq.PNG" group-title="TAMIL",DTH | MEGA MUSIQ
 https://iptv-live-play1.streamready.in/live/media2/mega_musiq/vdashc/mega_musiq.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/7s_Music.PNG" group-title="TAMIL",DTH | 7S MUSIC 
-https://iptv-live-play1.streamready.in/live/media3/7s_music/dashc/7s_music.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1441518.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/7star_TV.jpg" group-title="TAMIL",DTH | 7STAR TV
 http://7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/M_Music.png" group-title="TAMIL",DTH | M MUSIC 
@@ -60,7 +60,7 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/IBC_Isai.PNG" group-title="TAMIL",DTH | IBC MUSIC
 https://tx1.ibctamil.tv/CDN_IBC_Isai/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Imayam.jpg" group-title="TAMIL",DTH | IMAIYAM TV
-http://14.102.123.50:5001/live/1517.m3u8
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/143560.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_24.PNG" group-title="TAMIL",DTH | MEGA 24
 https://iptv-live-play1.streamready.in/live/media13/mega_24/vdashc/mega_24.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Adithya.PNG" group-title="TAMIL",DTH | ADITHYA TV
@@ -94,7 +94,7 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/vendhartv/master/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Makkal_TV.PNG" group-title="TAMIL",DTH | MAKKAL TV
 https://iptv-live-play1.streamready.in/live/media8/makkal_tv/dashc/makkal_tv.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Tamilan_TV.JPG" group-title="TAMIL",DTH | TAMILAN TV
-http://sansat.net:88/live/02021627031112/KMM2E0H3QDFE1JT/100158.m3u8
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/143567.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/IBC_Tamil.PNG" group-title="TAMIL",DTH | IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/DD_Podhigal.png" group-title="TAMIL",DTH | DD PODHIGAI
@@ -104,25 +104,25 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/D_Tamil.png" group-title="TAMIL",DTH | D TAMIL
 https://iptv-live-play1.streamready.in/live/media2/d_tamil/vdashc/d_tamil.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_HD.PNG" group-title="TAMIL",AIR | DISCOVERY HD
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100113
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63317.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Animal_planet_HD.JPG" group-title="TAMIL",AIR | ANIMAL PLANET HD
 http://premiumdedi.one:80/Jubilant7Relative/xmb1HEJBsY/451365
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nat_Wild_HD.JPG" group-title="TAMIL",AIR | NAT GEO WILD HD
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100135
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63496.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/National_Geo_Tv_HD.PNG" group-title="TAMIL",AIR | NATIONAL GEO GRAPHIC HD
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100136
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63532.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_BBC_Earth_HD.JPG" group-title="TAMIL",AIR | SONY BBC EARTH HD
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100151
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63495.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/History_Tv_18_HD.PNG" group-title="TAMIL",AIR | HISTORY 18 HD
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100116
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63533.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Chutti_TV.PNG" group-title="TAMIL",DTH | CHUTTI TV
-http://192.168.1.8:8080/jiotv/live.php?id=557&key=JITENDRAUNATTI&e=.m3u8
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/112760.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Pogo_TV.PNG" group-title="TAMIL",DTH | POGO TV
 http://ptuf.ridsys.in/riptv/live/stream207/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Discovery_Kids.JPG" group-title="TAMIL",AIR | DISCOVERY KIDS
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100112
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/112761.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Yay.PNG" group-title="TAMIL",AIR | SONY YAY
-http://sansat.net:88/02021627031112/KMM2E0H3QDFE1JT/100152
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/112764.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Cartoon_Network.PNG" group-title="TAMIL",DTH | CARTOON NETWORK 
 http://premiumdedi.one:80/Jubilant7Relative/xmb1HEJBsY/451591
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sonic.JPG" group-title="TAMIL",DTH | NICK SONIC
@@ -130,7 +130,7 @@ http://premiumdedi.one:80/Jubilant7Relative/xmb1HEJBsY/451325
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Nick.JPG" group-title="TAMIL",DTH | NICK TAMIL
 http://premiumdedi.one:80/Jubilant7Relative/xmb1HEJBsY/451595
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_News.PNG" group-title="TAMIL",DTH | SUN NEWS
-https://iptv-live-play1.streamready.in/live/media16/sun_news/dashc/sun_news.mpd
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63267.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Plus.PNG" group-title="TAMIL",AIR | JAYA PLUS
 https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Puthiya_Thalaimurai.PNG" group-title="TAMIL",DTH | PUTHIYA THALAIMURAI
