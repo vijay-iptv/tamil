@@ -12,9 +12,9 @@ http://192.168.1.5:8000/tsjiotv/app/ts_live_429.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_TV_HD.PNG" group-title="TAMIL",DTH | JAYA TV HD
 http://192.168.1.5:8000/tsjiotv/app/ts_live_419.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Vijay_Super_HD.jpg" group-title="TAMIL",DTH | VIJAY SUPER HD
-http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63531.m3u8
+http://watchindia.net:8880/32990/80955/2190
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Thirai.jpg" group-title="TAMIL",AIR | ZEE THIRAI HD
-http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/112776.m3u8
+http://watchindia.net:8880/32990/80955/2142
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Tamil_Cinema.jpg" group-title="TAMIL",AIR | TATA PLAY CINEMA
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/63320.m3u8
 #EXTINF:-1 tvg-logo="http://b1g.fun/logos2/CineMania4K_tamil.jpg" group-title="TAMIL",AIR | CINEMA TAMIL HD
