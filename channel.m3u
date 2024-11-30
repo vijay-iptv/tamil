@@ -132,11 +132,11 @@ http://192.168.1.5:8000/tsjiotv/app/ts_live_546.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_News.PNG" group-title="TAMIL",DTH | SUN NEWS
 http://192.168.1.5:8000/tsjiotv/app/ts_live_676.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Jaya_Plus.PNG" group-title="TAMIL",AIR | JAYA PLUS
-https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+http://192.168.1.5:8000/tsjiotv/app/ts_live_418.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Puthiya_Thalaimurai.PNG" group-title="TAMIL",DTH | PUTHIYA THALAIMURAI
-https://tnm3u.in.net/channel/tamil.php?c=puthiathalaimurai
+http://192.168.1.5:8000/tsjiotv/app/ts_live_677.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Polimer_News.PNG" group-title="TAMIL",AIR | POLIMER NEWS
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/polimernews_nim_https/110322/polimernews/playlist.m3u8
+http://192.168.1.5:8000/tsjiotv/app/ts_live_636.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Kalaigner_News.PNG" group-title="TAMIL",DTH | KALAIGNAR NEWS
 http://192.168.1.5:8000/tsjiotv/app/ts_live_1210.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sathiyam_TV.PNG" group-title="TAMIL",AIR | SATHIYAM TV
@@ -146,7 +146,7 @@ https://tnm3u.in.net/youtube/stream.php?c=@thanthitv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_J.PNG" group-title="TAMIL",DTH | NEWS J
 https://tnm3u.in.net/youtube/stream.php?c=@NewsJ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_7.PNG" group-title="TAMIL",DTH | NEWS 7
-https://tnm3u.in.net/channel/tamil.php?c=news7
+http://192.168.1.5:8000/tsjiotv/app/ts_live_673.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_Tamil.PNG" group-title="TAMIL",DTH | NEWS TAMIL 24x7
 https://tnm3u.in.net/youtube/stream.php?c=@NewsTamil24X7TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/News_18_Tamilnadu.PNG" group-title="TAMIL",DTH | NEWS 18 TAMILNADU
