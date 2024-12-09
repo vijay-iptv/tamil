@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_Tv_HD.PNG" group-title="TAMIL",DTH | SUN TV HD
 http://192.168.76.40:8000/tsjiotv/app/ts_live_896.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Vijay_HD.PNG" group-title="TAMIL",DTH | STAR VIJAY HD
