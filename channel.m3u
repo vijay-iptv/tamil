@@ -76,7 +76,7 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Athavan_Tv.PNG" group-title="TAMIL",DTH | ATHAVAN HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/athavantv/master/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/TVI_HD.PNG" group-title="TAMIL",DTH | TVI HD
-http://line.rs6ott.com:80/ae5d4c3c9212/06041c6c3379/155920
+http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/116619
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Moon_TV.PNG" group-title="TAMIL",DTH | MOON TV
 https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Mega_TV.PNG" group-title="TAMIL",DTH | MEGA TV
@@ -163,10 +163,10 @@ http://atg100.xyz:80/UL33K17/SYC4T9D/34687
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/115423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Pix_HD.PNG" group-title="TAMIL",DTH | SONY PIX HD
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Zee_Cafe_HD.JPG" group-title="ENGLISH",AIR | ZEE CAFE HD
-http://195.26.87.217/live/00:1A:79:B7:2F:EA/D9CA0D47A1879/212.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Colors_Infinity_HD.JPG" group-title="ENGLISH",AIR | COLORS INFINITY HD
-http://192.168.76.40:8000/tsjiotv/app/ts_live_1158.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00rAx9kS2HdPH33MXXlgd0XM7NyMnirqX3A&usqp=CAU" group-title="ENGLISH",AIR | &FLIX HD
+http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507709
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8_iUY6BMLZORQpE-RD0JJikcXHDRErGgsjMYniFl9L8Bd1j8RlP2VnLZ&s=10" group-title="ENGLISH",AIR | &PRIVE HD
+http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/117131
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="ENGLISH",AIR | SONY TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_2.JPG" group-title="ENGLISH",DTH | SONY TEN 2 HD
