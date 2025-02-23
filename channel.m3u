@@ -155,25 +155,25 @@ https://tnm3u.in.net/youtube/stream.php?c=@rajnewstamil
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Sports_Tamil_HD.JPG" group-title="DTH-Tamil",AIR | STAR SPORTS TAMIL HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/1090646
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_HD.JPG" group-title="ENGLISH",DTH | STAR MOVIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_HD.JPG" group-title="DTH-English",DTH | STAR MOVIES HD
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/117211
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_Select_HD.JPG" group-title="ENGLISH",DTH | STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Movies_Select_HD.JPG" group-title="DTH-English",DTH | STAR MOVIES SELECT HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/34687
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Movies_Now_HD.JPG" group-title="ENGLISH",AIR | MOVIES NOW HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Movies_Now_HD.JPG" group-title="DTH-English",AIR | MOVIES NOW HD
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/115423
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Pix_HD.PNG" group-title="DTH-Tamil",DTH | SONY PIX HD
 http://212.102.34.8:9080/SonyPixHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00rAx9kS2HdPH33MXXlgd0XM7NyMnirqX3A&usqp=CAU" group-title="ENGLISH",AIR | &FLIX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ00rAx9kS2HdPH33MXXlgd0XM7NyMnirqX3A&usqp=CAU" group-title="DTH-English",AIR | &FLIX HD
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/507709
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8_iUY6BMLZORQpE-RD0JJikcXHDRErGgsjMYniFl9L8Bd1j8RlP2VnLZ&s=10" group-title="ENGLISH",AIR | &PRIVE HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8_iUY6BMLZORQpE-RD0JJikcXHDRErGgsjMYniFl9L8Bd1j8RlP2VnLZ&s=10" group-title="DTH-English",AIR | &PRIVE HD
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/117131
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="ENGLISH",AIR | SONY TEN 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_1.JPG" group-title="DTH-English",AIR | SONY TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_2.JPG" group-title="ENGLISH",DTH | SONY TEN 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_2.JPG" group-title="DTH-English",DTH | SONY TEN 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_3.JPG" group-title="ENGLISH",DTH | SONY TEN 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_3.JPG" group-title="DTH-English",DTH | SONY TEN 3 HD
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_4.JPG" group-title="ENGLISH",AIR | SONY TEN 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_4.JPG" group-title="DTH-English",AIR | SONY TEN 4 HD
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_5.JPG" group-title="ENGLISH",AIR | SONY TEN 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_Ten_5.JPG" group-title="DTH-English",AIR | SONY TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
