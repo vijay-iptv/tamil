@@ -5,6 +5,10 @@ http://192.168.76.40:8000/tsjiotv/app/ts_live_896.m3u8
 http://atg100.xyz:80/UL33K17/SYC4T9D/72123
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Adithya.PNG" group-title="New-Tamil",Adithiya Tv
 http://atg100.xyz:80/UL33K17/SYC4T9D/72097
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sun_News.PNG" group-title="New-Tamil",Sun News
+http://atg100.xyz:80/UL33K17/SYC4T9D/72124
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Sony_BBC_Earth_HD.JPG" group-title="New-Tamil",Sony BBC Earth HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/72119
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Star_Vijay_HD.PNG" group-title="DTH-Tamil",DTH | STAR VIJAY HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/72120
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logo/main/Ktv_HD.PNG" group-title="DTH-Tamil",DTH | KTV HD
