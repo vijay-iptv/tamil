@@ -3,6 +3,12 @@
 http://192.168.76.40:8000/tsjiotv/app/ts_live_896.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cartoon_Network_HD.png" group-title="DTH-Tamil",CN HD+ Tamil
 http://192.168.76.40:8000/tsjiotv/app/ts_live_1081.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png" group-title="DTH-Tamil",Tamil Janam
+http://192.168.76.40:8000/tsjiotv/app/ts_live_3045.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png" group-title="DTH-Tamil",Velicham TV
+http://192.168.76.40:8000/tsjiotv/app/ts_live_3004.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Madhimugam_TV.png" group-title="DTH-Tamil",Madhimugam TV
+http://192.168.76.40:8000/tsjiotv/app/ts_live_843.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png" group-title="DTH-Tamil",Star Vijay  HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/72120
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/KTV_HD.png" group-title="DTH-Tamil",DTH | KTV HD
