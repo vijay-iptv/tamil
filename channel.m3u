@@ -116,7 +116,7 @@ http://192.168.76.40:8000/tsjiotv/app/ts_live_830.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png" group-title="DTH-Tamil",News J
 http://192.168.76.40:8000/tsjiotv/app/ts_live_1515.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="DTH-Tamil",News 7
-http://192.168.1.5:8000/tsjiotv/app/ts_live_673.m3u8
+http://192.168.76.40:8000/tsjiotv/app/ts_live_673.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_Tamil.png" group-title="DTH-Tamil",News Tamil 24x7
 http://192.168.76.40:8000/tsjiotv/app/ts_live_1954.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_18_Tamilnadu.png" group-title="DTH-Tamil",News 18 Tamilnadu
