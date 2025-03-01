@@ -5,6 +5,8 @@ http://192.168.76.40:8000/tsjiotv/app/ts_live_896.m3u8
 http://192.168.76.40:8000/tsjiotv/app/ts_live_1081.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png" group-title="DTH-Tamil",Tamil Janam
 http://192.168.76.40:8000/tsjiotv/app/ts_live_3045.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="DTH-Tamil",Sony Pix HD
+http://103.115.126.26:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png" group-title="DTH-Tamil",Velicham TV
 http://192.168.76.40:8000/tsjiotv/app/ts_live_3004.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Madhimugam_TV.png" group-title="DTH-Tamil",Madhimugam TV
