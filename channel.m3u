@@ -20,7 +20,7 @@ http://192.168.76.40:8000/tsjiotv/app/ts_live_429.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png" group-title="DTH-Tamil",Jaya TV HD
 http://192.168.76.40:8000/tsjiotv/app/ts_live_419.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png" group-title="DTH-Tamil",Vijay Super HD
-http://atg100.xyz:80/UL33K17/SYC4T9D/72129
+http://humsab.xyz/IND_VijaySuper/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png" group-title="DTH-Tamil",Zee Thirai HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/510441
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="DTH-Tamil",J Movies
@@ -96,9 +96,9 @@ http://192.168.76.40:8000/tsjiotv/app/ts_live_873.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cartoon_Network.png" group-title="DTH-Tamil",Cartoon Network
 http://192.168.76.40:8000/tsjiotv/app/ts_live_817.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sonic.png" group-title="DTH-Tamil",Nick Sonic
-http://192.168.76.40:8000/tsjiotv/app/ts_live_546.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Nick.png" group-title="DTH-Tamil",Nick Tamil
 http://192.168.76.40:8000/tsjiotv/app/ts_live_290.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Nick.png" group-title="DTH-Tamil",Nick Tamil
+http://192.168.76.40:8000/tsjiotv/app/ts_live_546.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_News.png" group-title="DTH-Tamil",Sun News
 http://192.168.76.40:8000/tsjiotv/app/ts_live_676.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Plus.png" group-title="DTH-Tamil",Jaya Plus
