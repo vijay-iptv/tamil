@@ -54,7 +54,7 @@ http://192.168.76.40:8000/tsjiotv/app/ts_live_845.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="DTH-Tamil",Mk Six
 http://192.168.76.40:8000/tsjiotv/app/ts_live_1647.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" group-title="DTH-Tamil",Mega 24
-http://103.115.126.26:8000/play/a06h/index.m3u8
+https://jassopplexm3u.vercel.app/opplex.m3u8?token=sssi48&id=380983
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Adithya.png" group-title="DTH-Tamil",Adithya TV
 http://192.168.76.40:8000/tsjiotv/app/ts_live_709.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="DTH-Tamil",Sirippoli  TV
@@ -62,7 +62,7 @@ http://103.115.126.26:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="DTH-Tamil",Murasu Tv
 http://103.115.126.26:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_3.png" group-title="DTH-Tamil",3 Tamil HD
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+https://jassopplexm3u.vercel.app/opplex.m3u8?token=sssi48&id=380942
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/TVI_HD.png" group-title="DTH-Tamil",TVI HD
 http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/116619
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_TV.png" group-title="DTH-Tamil",Mega TV
