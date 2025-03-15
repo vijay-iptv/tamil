@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Tv_HD.png" group-title="DTH-Tamil",Sun TV HD
+http://localhost:8000/jiotv/app/ts_live_896.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cartoon_Network_HD.png" group-title="DTH-Tamil",CN HD+ Tamil
+http://localhost:8000/jiotv/app/ts_live_1081.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png" group-title="DTH-Tamil",Tamil Janam
+http://localhost:8000/jiotv/app/ts_live_3045.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="DTH-Tamil",Sony Pix HD
+http://103.115.126.26:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png" group-title="DTH-Tamil",Velicham TV
+http://localhost:8000/jiotv/app/ts_live_3004.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Madhimugam_TV.png" group-title="DTH-Tamil",Madhimugam TV
+http://localhost:8000/jiotv/app/ts_live_843.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png" group-title="DTH-Tamil",Star Vijay  HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/72120
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/KTV_HD.png" group-title="DTH-Tamil",DTH | KTV HD
+http://localhost:8000/jiotv/app/ts_live_894.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png" group-title="DTH-Tamil",Zee Tamil  HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/72132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png" group-title="DTH-Tamil",Colors Tamil HD
+http://localhost:8000/jiotv/app/ts_live_429.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png" group-title="DTH-Tamil",Jaya TV HD
+http://localhost:8000/jiotv/app/ts_live_419.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png" group-title="DTH-Tamil",Vijay Super HD
+http://humsab.xyz/IND_VijaySuper/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png" group-title="DTH-Tamil",Zee Thirai HD
+http://atg100.xyz:80/UL33K17/SYC4T9D/510441
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="DTH-Tamil",J Movies
+http://localhost:8000/jiotv/app/ts_live_417.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_TV.png" group-title="DTH-Tamil",Raj TV
+http://localhost:8000/jiotv/app/ts_live_707.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Digital_Plus.png" group-title="DTH-Tamil",Raj Digital Plus
+http://localhost:8000/jiotv/app/ts_live_683.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner.png" group-title="DTH-Tamil",Kalaignar TV
+http://localhost:8000/jiotv/app/ts_live_1209.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_TV.png" group-title="DTH-Tamil",Mk TV
+http://localhost:8000/jiotv/app/ts_live_847.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_1.png" group-title="DTH-Tamil",Thandhi One
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png" group-title="DTH-Tamil",Sun Music HD
+http://localhost:8000/jiotv/app/ts_live_895.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Life.png" group-title="DTH-Tamil",Sun Life
+http://localhost:8000/jiotv/app/ts_live_682.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isai_Aruvi.png" group-title="DTH-Tamil",Isaiaruvi
+http://103.115.126.26:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png" group-title="DTH-Tamil",Jaya Max
+http://localhost:8000/jiotv/app/ts_live_420.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="DTH-Tamil",Vijay Takker
+http://103.115.126.26:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Musix.png" group-title="DTH-Tamil",Raj Musix
+http://localhost:8000/jiotv/app/ts_live_748.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Tunes.png" group-title="DTH-Tamil",Mk Tunes
+http://localhost:8000/jiotv/app/ts_live_845.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="DTH-Tamil",Mk Six
+http://localhost:8000/jiotv/app/ts_live_1647.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" group-title="DTH-Tamil",Mega 24
+https://jassopplexm3u.vercel.app/opplex.m3u8?token=sssi48&id=380983
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Adithya.png" group-title="DTH-Tamil",Adithya TV
+http://localhost:8000/jiotv/app/ts_live_709.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="DTH-Tamil",Sirippoli  TV
+http://103.115.126.26:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="DTH-Tamil",Murasu Tv
+http://103.115.126.26:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_3.png" group-title="DTH-Tamil",3 Tamil HD
+https://jassopplexm3u.vercel.app/opplex.m3u8?token=sssi48&id=380942
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/TVI_HD.png" group-title="DTH-Tamil",TVI HD
+http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/116619
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_TV.png" group-title="DTH-Tamil",Mega TV
+http://103.115.126.26:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthuyugam.png" group-title="DTH-Tamil",Puthuyugam
+http://localhost:8000/jiotv/app/ts_live_824.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vasanth_TV.png" group-title="DTH-Tamil",Vasanth TV
+http://localhost:8000/jiotv/app/ts_live_727.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_TV.png" group-title="DTH-Tamil",Polimer TV
+https://catchup.yuppcdn.net/amazonv2/36/preview/polimertv/master/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vendhar_TV.png" group-title="DTH-Tamil",Vendhar TV
+http://localhost:8000/jiotv/app/ts_live_857.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Makkal_TV.png" group-title="DTH-Tamil",Makkal TV
+http://localhost:8000/jiotv/app/ts_live_708.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png" group-title="DTH-Tamil",Tamilan TV
+http://localhost:8000/jiotv/app/ts_live_2958.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/IBC_Tamil.png" group-title="DTH-Tamil",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/DD_Tamil.png" group-title="DTH-Tamil",DD Tamil
+http://localhost:8000/jiotv/app/ts_live_726.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/D_Tamil.png" group-title="DTH-Tamil",D Tamil
+http://localhost:8000/jiotv/app/ts_live_569.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_BBC_Earth_HD.png" group-title="DTH-Tamil",Sony BBC Earth HD
+http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/116591
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Chutti_TV.png" group-title="DTH-Tamil",Chutti TV
+http://localhost:8000/jiotv/app/ts_live_557.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Pogo_TV.png" group-title="DTH-Tamil",Poga TV
+http://localhost:8000/jiotv/app/ts_live_542.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Discovery_Kids.png" group-title="DTH-Tamil",Discovery Kids
+http://localhost:8000/jiotv/app/ts_live_550.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Yay.png" group-title="DTH-Tamil",Sony Yay
+http://localhost:8000/jiotv/app/ts_live_873.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cartoon_Network.png" group-title="DTH-Tamil",Cartoon Network
+http://localhost:8000/jiotv/app/ts_live_817.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sonic.png" group-title="DTH-Tamil",Nick Sonic
+http://localhost:8000/jiotv/app/ts_live_290.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Nick.png" group-title="DTH-Tamil",Nick Tamil
+http://localhost:8000/jiotv/app/ts_live_546.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_News.png" group-title="DTH-Tamil",Sun News
+http://localhost:8000/jiotv/app/ts_live_676.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Plus.png" group-title="DTH-Tamil",Jaya Plus
+http://localhost:8000/jiotv/app/ts_live_418.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png" group-title="DTH-Tamil",Puthiya Thalaimurai
+http://localhost:8000/jiotv/app/ts_live_677.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_News.png" group-title="DTH-Tamil",Polimer News
+http://localhost:8000/jiotv/app/ts_live_636.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner_News.png" group-title="DTH-Tamil",Kalaigner News
+http://localhost:8000/jiotv/app/ts_live_1210.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sathiyam_TV.png" group-title="DTH-Tamil",Sathiyam TV
+http://localhost:8000/jiotv/app/ts_live_671.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_TV.png" group-title="DTH-Tamil",Thanthi TV
+http://localhost:8000/jiotv/app/ts_live_830.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png" group-title="DTH-Tamil",News J
+http://localhost:8000/jiotv/app/ts_live_1515.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="DTH-Tamil",News 7
+http://localhost:8000/jiotv/app/ts_live_673.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_Tamil.png" group-title="DTH-Tamil",News Tamil 24x7
+http://localhost:8000/jiotv/app/ts_live_1954.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_18_Tamilnadu.png" group-title="DTH-Tamil",News 18 Tamilnadu
+http://localhost:8000/jiotv/app/ts_live_615.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_News.png" group-title="DTH-Tamil",Raj News
+http://localhost:8000/jiotv/app/ts_live_767.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="DTH-Tamil",Star Sports Tamil HD
+https://free4u.short.gy/airpel4khd?id=155873
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="DTH-Tamil",Star Movies HD
+https://free4u.short.gy/airpel4khd?id=1116488
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="DTH-Tamil",Star Movies Select HD
+https://free4u.short.gy/airpel4khd?id=155729
