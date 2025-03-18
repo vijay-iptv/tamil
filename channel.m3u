@@ -6,7 +6,7 @@ http://localhost:8000/jiotv/app/ts_live_1081.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png" group-title="DTH-Tamil",Tamil Janam
 http://localhost:8000/jiotv/app/ts_live_3045.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="DTH-Tamil",Sony Pix HD
-https://ranapk.spidy.online/MACX/TATACC/play.php?id=1093
+http://kingtom-001-site1.otempurl.com/Test/Share.php?id=9381
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png" group-title="DTH-Tamil",Velicham TV
 http://localhost:8000/jiotv/app/ts_live_3004.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Madhimugam_TV.png" group-title="DTH-Tamil",Madhimugam TV
@@ -128,6 +128,6 @@ http://localhost:8000/jiotv/app/ts_live_767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="DTH-Tamil",Star Sports Tamil HD
 http://kingtom-001-site1.otempurl.com/Test/Share.php?id=9722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="DTH-Tamil",Star Movies HD
-https://ranapk.spidy.online/MACX/TATACC/play.php?id=17089
+http://kingtom-001-site1.otempurl.com/Test/Share.php?id=979
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="DTH-Tamil",Star Movies Select HD
-https://ranapk.spidy.online/MACX/TATACC/play.php?id=17092
+http://kingtom-001-site1.otempurl.com/Test/Share.php?id=218
