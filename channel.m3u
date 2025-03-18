@@ -6,7 +6,7 @@ http://localhost:8000/jiotv/app/ts_live_1081.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png" group-title="DTH-Tamil",Tamil Janam
 http://localhost:8000/jiotv/app/ts_live_3045.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="DTH-Tamil",Sony Pix HD
-http://starshare.org:8080/live/431235685370/653123468749/9381.m3u8
+https://cko3.short.gy/starshare?id=9381
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png" group-title="DTH-Tamil",Velicham TV
 http://localhost:8000/jiotv/app/ts_live_3004.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Madhimugam_TV.png" group-title="DTH-Tamil",Madhimugam TV
@@ -46,7 +46,7 @@ http://103.115.126.26:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png" group-title="DTH-Tamil",Jaya Max
 http://localhost:8000/jiotv/app/ts_live_420.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="DTH-Tamil",Vijay Takker
-http://starshare.org:8080/live/431235685370/653123468749/23869.m3u8
+https://cko3.short.gy/starshare?id=23869
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Musix.png" group-title="DTH-Tamil",Raj Musix
 http://localhost:8000/jiotv/app/ts_live_748.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Tunes.png" group-title="DTH-Tamil",Mk Tunes
@@ -126,8 +126,8 @@ http://localhost:8000/jiotv/app/ts_live_615.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_News.png" group-title="DTH-Tamil",Raj News
 http://localhost:8000/jiotv/app/ts_live_767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="DTH-Tamil",Star Sports Tamil HD
-http://starshare.org:8080/live/431235685370/653123468749/9722.m3u8
+https://cko3.short.gy/starshare?id=9722
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="DTH-Tamil",Star Movies HD
-http://starshare.org:8080/live/431235685370/653123468749/979.m3u8
+https://cko3.short.gy/starshare?id=9384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="DTH-Tamil",Star Movies Select HD
-http://starshare.org:8080/live/431235685370/653123468749/218.m3u8
+https://cko3.short.gy/starshare?id=23270
