@@ -22,7 +22,7 @@ http://localhost:8000/jiotv/app/ts_live_429.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png" group-title="DTH-Tamil",Jaya TV HD
 http://localhost:8000/jiotv/app/ts_live_419.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png" group-title="DTH-Tamil",Vijay Super HD
-http://humsab.xyz/IND_VijaySuper/index.m3u8
+https://cko3.short.gy/starshare?id=1614
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png" group-title="DTH-Tamil",Zee Thirai HD
 http://atg100.xyz:80/UL33K17/SYC4T9D/510441
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="DTH-Tamil",J Movies
