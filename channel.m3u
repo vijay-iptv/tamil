@@ -126,7 +126,7 @@ http://localhost:8000/jiotv/app/ts_live_615.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_News.png" group-title="DTH-Tamil",Raj News
 http://localhost:8000/jiotv/app/ts_live_767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="DTH-Tamil",Star Sports Tamil HD
-https://cko3.short.gy/starshare?id=9722
+https://vaathala00.github.io/stream/tamil/master.m3u8?&play_token=join@vaathala1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="DTH-Tamil",Star Movies HD
 https://cko3.short.gy/starshare?id=9384
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="DTH-Tamil",Star Movies Select HD
