@@ -903,7 +903,7 @@ http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8
 http://notvstream.in/chennaiitv/chennaiitv.m3u8
 #EXTINF:-1 group-title="Yuva Tamil Local",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
-#EXTINF:-1 group-title="Yuva Tamil Local",Thanthi One 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_1.png" group-title="Yuva Tamil Local",Thanthi One 
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 #EXTINF:-1 group-title="Yuva Tamil Local", Dark  TV 
 http://applelive.in/darktv/darktv.m3u8
