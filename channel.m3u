@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Tv_HD.png" group-title="DTH-Tamil",Sun TV HD
 http://localhost:8000/jiotv/app/ts_live_896.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU8_iUY6BMLZORQpE-RD0JJikcXHDRErGgsjMYniFl9L8Bd1j8RlP2VnLZ&s=10" group-title="DTH-Tamil",&Private HD
+http://port.denver1769.fun/oplx5.php?id=66228
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tata_IPL.png" group-title="DTH-Tamil",TATA IPL Tamil 
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cartoon_Network_HD.png" group-title="DTH-Tamil",CN HD+ Tamil
@@ -8,7 +10,7 @@ http://localhost:8000/jiotv/app/ts_live_1081.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamil_Janam.png" group-title="DTH-Tamil",Tamil Janam
 http://localhost:8000/jiotv/app/ts_live_3045.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="DTH-Tamil",Sony Pix HD
-https://cko3.short.gy/starshare?id=9381
+http://port.denver1769.fun/oplx5.php?id=66224
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Velicham_TV.png" group-title="DTH-Tamil",Velicham TV
 http://localhost:8000/jiotv/app/ts_live_3004.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Madhimugam_TV.png" group-title="DTH-Tamil",Madhimugam TV
@@ -130,6 +132,6 @@ http://localhost:8000/jiotv/app/ts_live_767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="DTH-Tamil",Star Sports Tamil HD
 https://allinonereborn.com/test.m3u8/ts.php?ts=https://allinonereborn.com/test.m3u8?id=66474
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="DTH-Tamil",Star Movies HD
-https://cko3.short.gy/starshare?id=9384
+http://port.denver1769.fun/oplx5.php?id=109970
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="DTH-Tamil",Star Movies Select HD
 https://cko3.short.gy/starshare?id=23270
