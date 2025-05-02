@@ -90,7 +90,7 @@ http://localhost:8000/jiotv/app/ts_live_726.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/D_Tamil.png" group-title="DTH-Tamil",D Tamil
 http://localhost:8000/jiotv/app/ts_live_569.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_BBC_Earth_HD.png" group-title="DTH-Tamil",Sony BBC Earth HD
-http://ottplan.xyz:80/FSCJREGCPC6X2EK/F9SDAW/116591
+http://ottplan.xyz:80/live/FSCJREGCPC6X2EK/F9SDAW/116591.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Chutti_TV.png" group-title="DTH-Tamil",Chutti TV
 http://localhost:8000/jiotv/app/ts_live_557.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Pogo_TV.png" group-title="DTH-Tamil",Poga TV
