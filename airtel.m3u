@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Tv_HD.png" group-title="Airtel-Tamil",Sun TV HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/355371.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png" group-title="Airtel-Tamil",Star Vijay  HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187272.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/KTV_HD.png" group-title="Airtel-Tamil",DTH | KTV HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/355367.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png" group-title="Airtel-Tamil",Zee Tamil  HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/355372.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png" group-title="Airtel-Tamil",Colors Tamil HD
+http://starshare.st/live/42166/42166/5886.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png" group-title="Airtel-Tamil",Jaya TV HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/355366.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png" group-title="Airtel-Tamil",Vijay Super HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400159597.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png" group-title="Airtel-Tamil",Zee Thirai HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187369.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="Airtel-Tamil",J Movies
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187101.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_TV.png" group-title="Airtel-Tamil",Raj TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187219.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Digital_Plus.png" group-title="Airtel-Tamil",Raj Digital Plus
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187214.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner.png" group-title="Airtel-Tamil",Kalaignar TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187114.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_TV.png" group-title="Airtel-Tamil",Mk TV
+https://cdn-3.pishow.tv/live/1482/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png" group-title="Airtel-Tamil",Sun Music HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/355370.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Life.png" group-title="Airtel-Tamil",Sun Life
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187276.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isai_Aruvi.png" group-title="Airtel-Tamil",Isaiaruvi
+http://starshare.st/live/42166/42166/26165.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png" group-title="Airtel-Tamil",Jaya Max
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187106.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="Airtel-Tamil",Vijay Takker
+http://starshare.st/live/42166/42166/23869.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Musix.png" group-title="Airtel-Tamil",Raj Musix
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187215.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Tunes.png" group-title="Airtel-Tamil",Mk Tunes
+https://cdn-3.pishow.tv/live/433/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="Airtel-Tamil",Mk Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" group-title="Airtel-Tamil",Mega 24
+http://starshare.st/live/42166/42166/26163.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Adithya.png" group-title="Airtel-Tamil",Adithya TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/36394.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="Airtel-Tamil",Sirippoli  TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400374732.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="Airtel-Tamil",Murasu Tv
+http://starshare.st/live/42166/42166/29086.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_TV.png" group-title="Airtel-Tamil",Mega TV
+http://starshare.st/live/42166/42166/28141.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthuyugam.png" group-title="Airtel-Tamil",Puthuyugam
+http://exm3u.extraott.com:900/live/2249871453/1991220000/36389.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vasanth_TV.png" group-title="Airtel-Tamil",Vasanth TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187337.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_TV.png" group-title="Airtel-Tamil",Polimer TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187196.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vendhar_TV.png" group-title="Airtel-Tamil",Vendhar TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/401540910.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Makkal_TV.png" group-title="Airtel-Tamil",Makkal TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187134.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png" group-title="Airtel-Tamil",Tamilan TV
+http://exm3u.extraott.com:900/live/2249871453/1991220000/36383.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/DD_Tamil.png" group-title="Airtel-Tamil",DD Tamil
+http://exm3u.extraott.com:900/live/2249871453/1991220000/187037.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="Airtel-Tamil",Star Sports Tamil HD
+http://exm3u.extraott.com:900/live/2249871453/1991220000/400159598.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel-Tamil",Star Movies HD
+http://starshare.st/live/42166/42166/979.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel-Tamil",Star Movies Select HD
+http://starshare.st/live/42166/42166/218.m3u8
