@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Tv_HD.png" group-title="Airtel | Tamil",Sun TV HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63493.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png" group-title="Airtel | Tamil",Star Vijay  HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63494.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/KTV_HD.png" group-title="Airtel-Tamil",KTV HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63497.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png" group-title="Airtel | Tamil",Zee Tamil  HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63492.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png" group-title="Airtel-Tamil",Colors Tamil HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63480.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png" group-title="Airtel-Tamil",Jaya TV HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63318.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png" group-title="Airtel | Tamil",Vijay Super HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63531.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png" group-title="Airtel | Tamil",Zee Thirai HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112776.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="Airtel-Tamil",J Movies
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/143554.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_TV.png" group-title="Airtel | Tamil",Raj TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63471.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Digital_Plus.png" group-title="Airtel | Tamil",Raj Digital Plus
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112773.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner.png" group-title="Airtel-Tamil",Kalaignar TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/771630.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_TV.png" group-title="Airtel | Tamil",Mk TV
+https://cdn-3.pishow.tv/live/1482/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_1.png" group-title="Airtel | Tamil",Thandhi One
+https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png" group-title="Airtel | Tamil",Sun Music HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63485.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Life.png" group-title="Airtel | Tamil",Sun Life
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63268.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isai_Aruvi.png" group-title="Airtel-Tamil",Isaiaruvi
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441515.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png" group-title="Airtel-Tamil",Jaya Max
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63265.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="Airtel | Tamil",Vijay Takker
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441507.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Musix.png" group-title="Airtel | Tamil",Raj Musix
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63473.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Tunes.png" group-title="Airtel | Tamil",Mk Tunes
+https://cdn-3.pishow.tv/live/433/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="Airtel | Tamil",Mk Six
+https://cdn-2.pishow.tv/live/1253/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" group-title="Airtel-Tamil",Mega 24
+http://udigitalott.ridsys.in/riptv/live/stream36/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Adithya.png" group-title="Airtel-Tamil",Adithya TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63272.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="Airtel | Tamil",Sirippoli  TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/771632.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="Airtel | Tamil",Murasu Tv
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441514.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/TVI_HD.png" group-title="Airtel | Tamil",TVI HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/102152.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_TV.png" group-title="Airtel | Tamil",Mega TV
+http://udigitalott.ridsys.in/riptv/live/stream38/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthuyugam.png" group-title="Airtel | Tamil",Puthuyugam
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112762.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vasanth_TV.png" group-title="Airtel | Tamil",Vasanth TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63364.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_TV.png" group-title="Airtel | Tamil",Polimer TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112774.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vendhar_TV.png" group-title="Airtel | Tamil",Vendhar TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441520.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Makkal_TV.png" group-title="Airtel-Tamil",Makkal TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112772.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png" group-title="Airtel | Tamil",Tamilan TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/143567.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/IBC_Tamil.png" group-title="Airtel-Tamil",IBC Tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/DD_Tamil.png" group-title="Airtel-Tamil",DD Tamil
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/66107.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/D_Tamil.png" group-title="Airtel-Tamil",D Tamil
+https://special-by07.vercel.app/api/stream?channel=146
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_BBC_Earth_HD.png" group-title="Airtel | Tamil",Sony BBC Earth HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63495.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Chutti_TV.png" group-title="Airtel-Tamil",Chutti TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112760.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Pogo_TV.png" group-title="Airtel | Tamil",Poga TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112864.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Discovery_Kids.png" group-title="Airtel-Tamil",Discovery Kids
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112761.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Yay.png" group-title="Airtel | Tamil",Sony Yay
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112764.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cartoon_Network.png" group-title="Airtel-Tamil",Cartoon Network
+http://opplex.to:8080/live/Daljeets290/9671717722DSv@/380956.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sonic.png" group-title="Airtel | Tamil",Nick Sonic
+http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Nick.png" group-title="Airtel | Tamil",Nick Tamil
+http://localhost:8000/jiotv/app/ts_live_546.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_News.png" group-title="Airtel | Tamil",Sun News
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63267.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Plus.png" group-title="Airtel-Tamil",Jaya Plus
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112756.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png" group-title="Airtel | Tamil",Puthiya Thalaimurai
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/143552.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_News.png" group-title="Airtel | Tamil",Polimer News
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112767.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner_News.png" group-title="Airtel-Tamil",Kalaigner News
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441513.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sathiyam_TV.png" group-title="Airtel | Tamil",Sathiyam TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112771.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_TV.png" group-title="Airtel | Tamil",Thanthi TV
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112763.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png" group-title="Airtel | Tamil",News J
+http://localhost:8000/jiotv/app/ts_live_1515.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="Airtel | Tamil",News 7
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/1441523.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_Tamil.png" group-title="Airtel | Tamil",News Tamil 24x7
+http://localhost:8000/jiotv/app/ts_live_1954.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_18_Tamilnadu.png" group-title="Airtel | Tamil",News 18 Tamilnadu
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63349.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_News.png" group-title="Airtel | Tamil",Raj News
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112770.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="Airtel | Tamil",Star Sports Tamil HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63538.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="Airtel | Tamil",Star Movies HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63511.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="Airtel | Tamil",Star Movies Select HD
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/63510.m3u8
