@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV-Tamil",7s Music
 http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
 #EXTINF:-1 group-title="IPTV-Tamil",Aaseervatham TV
