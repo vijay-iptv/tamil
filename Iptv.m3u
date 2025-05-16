@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV-Tamil",7s Music
+http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Aaseervatham TV
+http://udigitalott.ridsys.in/riptv/live/stream5/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Ajith HD
+http://udigitalott.ridsys.in/riptv/live/stream94/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Angel TV HD
+http://udigitalott.ridsys.in/riptv/live/stream4/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Animal Planet HD
+http://udigitalott.ridsys.in/riptv/live/stream90/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",CSM TV
+http://udigitalott.ridsys.in/riptv/live/stream10/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/DD_Tamil.png" group-title="IPTV-Tamil",DD Tamil
+http://udigitalott.ridsys.in/riptv/live/stream13/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Discovery_HD.png" group-title="IPTV-Tamil",Discovery HD
+http://udigitalott.ridsys.in/riptv/live/stream91/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",DSR TV
+http://udigitalott.ridsys.in/riptv/live/stream14/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",G Music
+http://udigitalott.ridsys.in/riptv/live/stream18/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",G TV
+http://udigitalott.ridsys.in/riptv/live/stream19/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isai_Aruvi.png" group-title="IPTV-Tamil",Isaiaruvi
+http://udigitalott.ridsys.in/riptv/live/stream21/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="IPTV-Tamil",J Movie
+http://udigitalott.ridsys.in/riptv/live/stream103/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Jaiguru HD
+http://udigitalott.ridsys.in/riptv/live/stream88/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png" group-title="IPTV-Tamil",Jaya Max
+http://udigitalott.ridsys.in/riptv/live/stream97/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Plus.png" group-title="IPTV-Tamil",Jaya Plus
+http://udigitalott.ridsys.in/riptv/live/stream23/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",JG Prime HD
+http://udigitalott.ridsys.in/riptv/live/stream25/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",JG TV HD
+http://udigitalott.ridsys.in/riptv/live/stream26/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner_News.png" group-title="IPTV-Tamil",Kalaignar Seithigal
+http://udigitalott.ridsys.in/riptv/live/stream28/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner.png" group-title="IPTV-Tamil",Kalaignar TV
+http://udigitalott.ridsys.in/riptv/live/stream29/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Magilchi TV
+http://udigitalott.ridsys.in/riptv/live/stream86/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Makkal_TV.png" group-title="IPTV-Tamil",Makkal TV
+http://udigitalott.ridsys.in/riptv/live/stream33/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_24.png" group-title="IPTV-Tamil",Mega 24
+http://udigitalott.ridsys.in/riptv/live/stream36/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_Musiq.png" group-title="IPTV-Tamil",Mega Musiq
+http://udigitalott.ridsys.in/riptv/live/stream37/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_TV.png" group-title="IPTV-Tamil",Mega TV
+http://udigitalott.ridsys.in/riptv/live/stream38/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="IPTV-Tamil",MK Six
+http://udigitalott.ridsys.in/riptv/live/stream39/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Tunes.png" group-title="IPTV-Tamil",MK Tunes
+http://udigitalott.ridsys.in/riptv/live/stream40/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_TV.png" group-title="IPTV-Tamil",MK TV
+http://udigitalott.ridsys.in/riptv/live/stream41/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",MN Plus
+http://udigitalott.ridsys.in/riptv/live/stream92/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",MNX HD
+http://udigitalott.ridsys.in/riptv/live/stream42/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Moon TV
+http://udigitalott.ridsys.in/riptv/live/stream43/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Movies Now HD
+http://udigitalott.ridsys.in/riptv/live/stream44/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="IPTV-Tamil",Murasu TV
+http://udigitalott.ridsys.in/riptv/live/stream46/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="IPTV-Tamil",News 7 Tamil
+http://udigitalott.ridsys.in/riptv/live/stream48/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png" group-title="IPTV-Tamil",News J
+http://udigitalott.ridsys.in/riptv/live/stream49/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_Tamil.png" group-title="IPTV-Tamil",News Tamil 24x7
+http://udigitalott.ridsys.in/riptv/live/stream93/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",One TV HD
+http://udigitalott.ridsys.in/riptv/live/stream50/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",P SIX HD
+http://udigitalott.ridsys.in/riptv/live/stream51/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_News.png" group-title="IPTV-Tamil",Polimer News
+http://udigitalott.ridsys.in/riptv/live/stream54/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Polimer_TV.png" group-title="IPTV-Tamil",Polimer TV
+http://udigitalott.ridsys.in/riptv/live/stream53/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Puthiya_Thalaimurai.png" group-title="IPTV-Tamil",Puthiya Thalimurai
+http://udigitalott.ridsys.in/riptv/live/stream55/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Digital_Plus.png" group-title="IPTV-Tamil",Raj Digital Plus
+http://udigitalott.ridsys.in/riptv/live/stream57/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_Musix.png" group-title="IPTV-Tamil",Raj Musix
+http://udigitalott.ridsys.in/riptv/live/stream58/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_News.png" group-title="IPTV-Tamil",Raj News
+http://udigitalott.ridsys.in/riptv/live/stream59/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Raj_TV.png" group-title="IPTV-Tamil",Raj TV
+http://udigitalott.ridsys.in/riptv/live/stream60/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Rocky HD
+http://udigitalott.ridsys.in/riptv/live/stream62/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Sai TV
+http://udigitalott.ridsys.in/riptv/live/stream63/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sathiyam_TV.png" group-title="IPTV-Tamil",Sathiyam TV
+http://udigitalott.ridsys.in/riptv/live/stream64/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Selfie TV
+http://udigitalott.ridsys.in/riptv/live/stream65/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Singam HD
+http://udigitalott.ridsys.in/riptv/live/stream67/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="IPTV-Tamil",Sirippoli
+http://udigitalott.ridsys.in/riptv/live/stream27/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_BBC_Earth_HD.png" group-title="IPTV-Tamil",Sony BBC Earth HD
+http://udigitalott.ridsys.in/riptv/live/stream107/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Sony Ten 1 HD
+http://udigitalott.ridsys.in/riptv/live/stream108/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Yay.png" group-title="IPTV-Tamil",Sony Yay
+http://udigitalott.ridsys.in/riptv/live/stream100/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",SS Music
+http://udigitalott.ridsys.in/riptv/live/stream109/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Tamil Janam
+http://udigitalott.ridsys.in/riptv/live/stream102/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Tamil Oli TV
+http://udigitalott.ridsys.in/riptv/live/stream72/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tamilan_TV.png" group-title="IPTV-Tamil",Tamilan Television
+http://udigitalott.ridsys.in/riptv/live/stream73/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_1.png" group-title="IPTV-Tamil",Thanthi One
+http://udigitalott.ridsys.in/riptv/live/stream74/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Thanthi_TV.png" group-title="IPTV-Tamil",Thanthi TV
+http://udigitalott.ridsys.in/riptv/live/stream75/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Usilai TV
+http://udigitalott.ridsys.in/riptv/live/stream78/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Vaanavil TV
+http://udigitalott.ridsys.in/riptv/live/stream79/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vasanth_TV.png" group-title="IPTV-Tamil",Vasanth TV
+http://udigitalott.ridsys.in/riptv/live/stream80/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Veer Box HD
+http://udigitalott.ridsys.in/riptv/live/stream81/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vendhar_TV.png" group-title="IPTV-Tamil",Vendhar TV
+http://udigitalott.ridsys.in/riptv/live/stream83/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Vinayaga TV
+http://udigitalott.ridsys.in/riptv/live/stream84/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",Vinmeen HD
+http://udigitalott.ridsys.in/riptv/live/stream77/index.m3u8
+#EXTINF:-1 group-title="IPTV-Tamil",WIN News
+http://udigitalott.ridsys.in/riptv/live/stream85/index.m3u8
