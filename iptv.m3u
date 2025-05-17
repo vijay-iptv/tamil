@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV | TAMIL",7s Music
 http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 1 Tamil
+http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png" group-title="IPTV | TAMIL",Zee Tamil HD
+http://ptu.ridsys.in/riptv/live/stream107/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_1_Tamil_HD.PNG" group-title="IPTV | TAMIL",Star Sports Tamil 1 HD
+https://starshare.st/live/5788958/885986/497418.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png" group-title="IPTV | TAMIL",Star Movies HD
+http://ptu.ridsys.in/riptv/live/stream117/index.m3u8
+#EXTINF:-1 group-title="IPTV | TAMIL",Star Sports 1 HD
+http://ptu.ridsys.in/riptv/live/stream106/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Aaseervatham TV
 http://udigitalott.ridsys.in/riptv/live/stream5/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Ajith HD
