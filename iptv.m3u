@@ -12,13 +12,13 @@ http://ptu.ridsys.in/riptv/live/stream106/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_1_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 1 Tamil HD
 https://special-by07.vercel.app/api/stream?channel=1122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="IPTV | TAMIL",Star Movies Select HD
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/745.m3u8
+http://38.76.152.22:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_2_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 2 Tamil HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/514.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="IPTV | TAMIL",Vijay Takker
 http://hellosky.live:8080/live/HameedDubai/0507067610/45766.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="IPTV | TAMIL",Sony Pix HD
-http://hellosky.live:8080/live/HameedDubai/0507067610/45397.m3u8
+http://38.76.152.22:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Aaseervatham TV
 http://udigitalott.ridsys.in/riptv/live/stream5/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Ajith HD
