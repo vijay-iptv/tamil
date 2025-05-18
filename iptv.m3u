@@ -10,7 +10,7 @@ http://ptu.ridsys.in/riptv/live/stream117/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Star Sports 1 HD
 http://ptu.ridsys.in/riptv/live/stream106/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_1_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 1 Tamil HD
-http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/1529.m3u8
+https://special-by07.vercel.app/api/stream?channel=1122
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="IPTV | TAMIL",Star Movies Select HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/745.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_2_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 2 Tamil HD
