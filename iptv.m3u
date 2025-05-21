@@ -75,7 +75,7 @@ http://udigitalott.ridsys.in/riptv/live/stream40/index.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream41/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",MN Plus
 http://udigitalott.ridsys.in/riptv/live/stream92/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",MNX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MNX_HD.png" group-title="IPTV | TAMIL",MNX HD
 http://udigitalott.ridsys.in/riptv/live/stream42/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Moon TV
 http://udigitalott.ridsys.in/riptv/live/stream43/index.m3u8
