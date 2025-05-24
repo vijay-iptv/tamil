@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV | TAMIL",7s Music
 http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super_HD.png" group-title="IPTV | TAMIL",Vijay Super HD
+https://proxy-07-op.vercel.app/api/stream?id=1614
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super.PNG" group-title="IPTV | TAMIL",Vijay Super
 http://nonamevos.com:80/live/109/109/5017.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 1 Tamil
@@ -18,7 +20,7 @@ http://38.76.152.22:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_2_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 2 Tamil HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/514.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="IPTV | TAMIL",Vijay Takker
-http://nonamevos.com:80/live/109/109/54450.m3u8
+https://proxy-07-op.vercel.app/api/stream?id=23869
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="IPTV | TAMIL",Sony Pix HD
 http://38.76.152.22:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Aaseervatham TV
