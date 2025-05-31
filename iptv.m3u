@@ -28,7 +28,7 @@ http://38.76.152.22:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_2_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 2 Tamil HD
 http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/514.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Takker.png" group-title="IPTV | TAMIL",Vijay Takker
-https://proxy-07-op.vercel.app/api/stream?id=23869
+http://nonamevos.com:80/live/billy1/billy1/54450.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="IPTV | TAMIL",Sony Pix HD
 http://38.76.152.22:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Aaseervatham TV
