@@ -22,7 +22,7 @@ http://ptu.ridsys.in/riptv/live/stream117/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_1HD.png" group-title="IPTV | TAMIL",Star Sports 1 HD
 http://ptu.ridsys.in/riptv/live/stream106/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_1_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 1 Tamil HD
-https://special-by07.vercel.app/api/stream?channel=1122
+http://nonamevos.com:80/live/billy1/billy1/51824.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="IPTV | TAMIL",Star Movies Select HD
 http://38.76.152.22:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Sports_2_Tamil_HD.png" group-title="IPTV | TAMIL",Star Sports 2 Tamil HD
