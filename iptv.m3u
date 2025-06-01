@@ -165,7 +165,6 @@ http://udigitalott.ridsys.in/riptv/live/stream84/index.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream77/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",WIN News
 http://udigitalott.ridsys.in/riptv/live/stream85/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a 
-#EXTINF: -1 group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tata_IPL.png", TATA IPL 
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tata_IPL.png", TATA IPL 
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/smgpde3rgj/out/v1/c157f6abdf7144e8b27b7e9606bb12e5/cenc.mpd
