@@ -168,3 +168,27 @@ http://udigitalott.ridsys.in/riptv/live/stream85/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a 
 #EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Tata_IPL.png", TATA IPL 
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/smgpde3rgj/out/v1/c157f6abdf7144e8b27b7e9606bb12e5/cenc.mpd
+#EXTINF:-1 tvg-id="368" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png",Star Vijay HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/output/index.mpd?__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07&xxx=%7Ccookie=__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07
+#EXTINF:-1 tvg-id="1104" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_HD.png",Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07&xxx=%7Ccookie=__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07
+#EXTINF:-1 tvg-id="1110" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png",Star Movies Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07&xxx=%7Ccookie=__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07
+#EXTINF:-1 tvg-id="1131" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Vijay_Super.PNG",Vijay Super
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=737e9cc83a8a5a55a002fa3ca457244c:a0285e3041ff5f4efae5361e12f759db
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
+#EXTHTTP:{"cookie":"__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/output/index.mpd?__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07&xxx=%7Ccookie=__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07
