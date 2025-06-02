@@ -192,9 +192,10 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mp
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/output/index.mpd?__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07&xxx=%7Ccookie=__hdnea__=st=1748830009~exp=1748916409~acl=/*~hmac=60e8e8af18d2ba720bfb728116c05fbff2e7d94aca24e706169da11bf2344e07
-#EXTINF:-1 tvg-id="429" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png",Colors Tamil HD
+#EXTINF:-1 tvg-id="429" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png", Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTHTTP:{"cookie":"__hdnea__=st=1748878320~exp=1748964720~acl=/*~hmac=7bd929845c31a3bb1cf20c6be280bddf6c79e0167f2ee41a63285cc3f54f066d"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1748878320~exp=1748964720~acl=/*~hmac=7bd929845c31a3bb1cf20c6be280bddf6c79e0167f2ee41a63285cc3f54f066d&xxx=%7Ccookie=__hdnea__=st=1748878320~exp=1748964720~acl=/*~hmac=7bd929845c31a3bb1cf20c6be280bddf6c79e0167f2ee41a63285cc3f54f066d
+
