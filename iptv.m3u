@@ -37,15 +37,13 @@ http://fast.luckonline.eu/live/2Nw6SArNhs/9754302190/514.m3u8
 http://nonamevos.com:80/live/billy1/billy1/54450.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_Pix_HD.png" group-title="IPTV | TAMIL",Sony Pix HD
 http://38.76.152.22:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",Aaseervatham TV
-http://udigitalott.ridsys.in/riptv/live/stream5/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",Ajith HD
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1123571786781376100819156.png",Ajith HD
 http://udigitalott.ridsys.in/riptv/live/stream94/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Angel TV HD
 http://udigitalott.ridsys.in/riptv/live/stream4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Animal_Planet_HD.png" group-title="IPTV | TAMIL",Animal Planet HD
 http://udigitalott.ridsys.in/riptv/live/stream90/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",CSM TV
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/CSM%20Logo%20Test.png",CSM TV
 http://udigitalott.ridsys.in/riptv/live/stream10/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/DD_Tamil.png" group-title="IPTV | TAMIL",DD Tamil
 http://udigitalott.ridsys.in/riptv/live/stream13/index.m3u8
@@ -53,23 +51,23 @@ http://udigitalott.ridsys.in/riptv/live/stream13/index.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream91/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",DSR TV
 http://udigitalott.ridsys.in/riptv/live/stream14/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",G Music
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/New%20G%20Music%2001%20copy.png",G Music
 http://udigitalott.ridsys.in/riptv/live/stream18/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",G TV
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1559001389932035184628100.png",G TV
 http://udigitalott.ridsys.in/riptv/live/stream19/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isai_Aruvi.png" group-title="IPTV | TAMIL",Isaiaruvi
 http://udigitalott.ridsys.in/riptv/live/stream21/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="IPTV | TAMIL",J Movie
 http://udigitalott.ridsys.in/riptv/live/stream103/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",Jaiguru HD
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1534517445168231996112292.png",Jaiguru HD
 http://udigitalott.ridsys.in/riptv/live/stream88/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Max.png" group-title="IPTV | TAMIL",Jaya Max
 http://udigitalott.ridsys.in/riptv/live/stream97/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Plus.png" group-title="IPTV | TAMIL",Jaya Plus
 http://udigitalott.ridsys.in/riptv/live/stream23/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",JG Prime HD
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1538066179035183251462220.png",JG Prime HD
 http://udigitalott.ridsys.in/riptv/live/stream25/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",JG TV HD
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1559001389932035184628100.png",JG TV HD
 http://udigitalott.ridsys.in/riptv/live/stream26/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Kalaigner_News.png" group-title="IPTV | TAMIL",Kalaignar Seithigal
 http://udigitalott.ridsys.in/riptv/live/stream28/index.m3u8
@@ -86,18 +84,18 @@ http://udigitalott.ridsys.in/riptv/live/stream37/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Mega_TV.png" group-title="IPTV | TAMIL",Mega TV
 http://udigitalott.ridsys.in/riptv/live/stream38/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Six.png" group-title="IPTV | TAMIL",MK Six
-http://udigitalott.ridsys.in/riptv/live/stream39/index.m3u8
+https://cdn-3.pishow.tv/live/1253/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_Tunes.png" group-title="IPTV | TAMIL",MK Tunes
-http://udigitalott.ridsys.in/riptv/live/stream40/index.m3u8
+https://cdn-3.pishow.tv/live/433/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MK_TV.png" group-title="IPTV | TAMIL",MK TV
-http://udigitalott.ridsys.in/riptv/live/stream41/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",MN Plus
+https://cdn-3.pishow.tv/live/1482/master.m3u8
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tatalogo.pages.dev/210.png",MN Plus
 http://udigitalott.ridsys.in/riptv/live/stream92/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/MNX_HD.png" group-title="IPTV | TAMIL",MNX HD
 http://udigitalott.ridsys.in/riptv/live/stream42/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",Moon TV
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240313_0159072608720790962587693.png",Moon TV
 http://udigitalott.ridsys.in/riptv/live/stream43/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",Movies Now HD
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tatalogo.pages.dev/562.png",Movies Now HD
 http://udigitalott.ridsys.in/riptv/live/stream44/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="IPTV | TAMIL",Murasu TV
 http://udigitalott.ridsys.in/riptv/live/stream46/index.m3u8
@@ -133,7 +131,7 @@ http://udigitalott.ridsys.in/riptv/live/stream63/index.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream64/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Selfie TV
 http://udigitalott.ridsys.in/riptv/live/stream65/index.m3u8
-#EXTINF:-1 group-title="IPTV | TAMIL",Singam HD
+#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/singam%20333333.png",Singam HD
 http://udigitalott.ridsys.in/riptv/live/stream67/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="IPTV | TAMIL",Sirippoli
 http://udigitalott.ridsys.in/riptv/live/stream27/index.m3u8
@@ -171,3 +169,17 @@ http://udigitalott.ridsys.in/riptv/live/stream84/index.m3u8
 http://udigitalott.ridsys.in/riptv/live/stream77/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",WIN News
 http://udigitalott.ridsys.in/riptv/live/stream85/index.m3u8
+#EXTINF:-1 tvg-id="ts1285" group-title="IPTV | TAMIL" tvg-logo=" https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANATV_Thumbnail-v2/SANATV_Thumbnail.png", Sana TV
+https://cable75tataplay.akamaized.net/dash/sanatv.mpd
+#EXTINF:-1 tvg-id="ts1284" group-title="IPTV | TAMIL" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANPLTV_Thumbnail-v1/SANPLTV_Thumbnail.png",Sana Plus
+https://cable74tataplay.akamaized.net/dash/sanaplus.mpd
+#EXTINF:-1  tvg-name="Suriyan Tv" group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240303_2107113622067629098400908.png",Suriyan Tv
+https://cable88tataplay.akamaized.net/live/suriyantv/index.mpd
+#EXTINF:-1  tvg-name="Subin Tv" group-title="IPTV | TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SUBINTV_Thumbnail-v1/SUBINTV_Thumbnail.png",Subin Tv
+https://cable88tataplay.akamaized.net/live/subintv/index.mpd
+#EXTINF:-1  tvg-name="NTv" group-title="IPTV | TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NTVPUT_Thumbnail-v1/NTVPUT_Thumbnail.png",NTV
+https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
+#EXTINF:-1  tvg-name="Anandham Tv" group-title="IPTV | TAMIL" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ANDMTV_Thumbnail-v1/ANDMTV_Thumbnail.png",Anandham TV
+https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd
+#EXTINF:-1  tvg-name="ts1388" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/UTV.png",UTV
+https://cable92tataplay.akamaized.net/live/utv/index.mpd
