@@ -1,10 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTHTTP:{"cookie":"__hdnea__=st=1748878320~exp=1748964720~acl=/*~hmac=7bd929845c31a3bb1cf20c6be280bddf6c79e0167f2ee41a63285cc3f54f066d"}
-#EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Colors_Tamil_HD.png", Colors Tamil HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1748878320~exp=1748964720~acl=/*~hmac=7bd929845c31a3bb1cf20c6be280bddf6c79e0167f2ee41a63285cc3f54f066d&xxx=%7Ccookie=__hdnea__=st=1748878320~exp=1748964720~acl=/*~hmac=7bd929845c31a3bb1cf20c6be280bddf6c79e0167f2ee41a63285cc3f54f066d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV | TAMIL",7s Music
 http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
