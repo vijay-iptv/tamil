@@ -182,3 +182,4 @@ https://cable92tataplay.akamaized.net/live/utv/index.mpd
 #EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD SunDirectGo
 #EXTVLCOPT:http-user-agent=Safari/537.36
 https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
+
