@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="419" group-title="JioStar-Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_TV_HD.png",Jaya TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"91c08ce0ece5d6c8c167b104a7c9ab00","kid":"b53a72551ecd5f5a93785ab2eea2c04a"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kcCM4Oz l1sjBZ7EEp8mrAA","kid":"tTp yVR7NX1qTeFqy7qLASg"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1757243796~exp=1757330196~acl=/*~hmac=5388cc732bc4ccaba10d6f96b6981019dd79029df2938a24bd5d354fb9c15634"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1757243796~exp=1757330196~acl=/*~hmac=5388cc732bc4ccaba10d6f96b6981019dd79029df2938a24bd5d354fb9c15634
