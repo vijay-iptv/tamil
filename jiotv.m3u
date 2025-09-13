@@ -1,5 +1,6 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 #EXTINF:-1, Jaya Plus
 https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?minrate=80000&maxrate=2024000&__hdnea__=st=1757753753~exp=1757757353~acl=/bpk-tv/Jaya_Plus_MOB/WDVLive/*~hmac=1dcd077e251d0211ceda26a53b57bc4ba9d24be5ec87ee6bbad9011f38e5f9ef
+
 #EXTINF:-1, Vijay Super
 https://jiotvmblive.cdn.jio.com/Vijay_Super/Vijay_Super.m3u8?__hdnea__=st=1757754162~exp=1757757762~acl=/Vijay_Super/*~hmac=dd3e8ace49205256c1841a392ef3883bda24300558344227cfcf804a8bcadacb
