@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="JioTv-Tamil",Sun TV HD
+https://jio.drmlive.net/jio/bpk-tv/Sun_TV_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="JioTv-Tamil",KTV HD
+https://jio.drmlive.net/jio/bpk-tv/KTV_HD_MOB/Fallback/index.m3u8
