@@ -5,10 +5,9 @@
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd
 
-#EXTINF:-1 tvg-id="895" group-title="JioPlus-Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png",Sun Music HD
+#EXTINF:-1 tvg-id="895" group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757960493~exp=1758046893~acl=/*~hmac=56913f256fa2d7939365ae2c29c6438502733400ec7baa98a71f16faf3a0a02a"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1757960493~exp=1758046893~acl=/*~hmac=56913f256fa2d7939365ae2c29c6438502733400ec7baa98a71f16faf3a0a02a
-
+#EXTHTTP:{"cookie":"__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=0b18013c786ecb53552f16ec9b5efb2f1b0945b85dd5bb4971e8b346f0b5859f"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1757961503~exp=1757961503~acl=/*~hmac=0b18013c786ecb53552f16ec9b5efb2f1b0945b85dd5bb4971e8b346f0b5859f&xxx=%7Ccookie=__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=0b18013c786ecb53552f16ec9b5efb2f1b0945b85dd5bb4971e8b346f0b5859f
