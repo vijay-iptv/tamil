@@ -3,12 +3,12 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757960202~exp=1758046602~acl=/*~hmac=7d70316d8aa1e55bc0039d6a11e2b8b2486e1528b7d7e39eb8e7315d928d2e0e"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="368" group-title="JioPlus-Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png",Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"__hdnea__=st=1757960202~exp=1758046602~acl=/*~hmac=7d70316d8aa1e55bc0039d6a11e2b8b2486e1528b7d7e39eb8e7315d928d2e0e"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1757942041~exp=1758028441~acl=/*~hmac=2f3b33a6f88096c6865e63b9d99b57b0bc971d9140d8d8fa36f24d004f729cfb"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/output/index.mpd
