@@ -1,3 +1,6 @@
 #EXTM3U x-tvg-url="https://live.dinesh29.com.np/epg/jiotvplus/master-epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="JioTv+" group-logo="", CN HD+ Tamil #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=83997e19da7f5b15a53c150730a91f31&key=605f420d088427d95b55275eb174b734 https://stream.kliv.fun/allplus19/jtv/manifest.mpd?id=1081
+#EXTINF:-1 tvg-id="1081" tvg-name="CN HD+ Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="JioTv+" group-logo="", CN HD+ Tamil 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=83997e19da7f5b15a53c150730a91f31&key=605f420d088427d95b55275eb174b734 
+https://stream.kliv.fun/allplus19/jtv/manifest.mpd?id=1081
