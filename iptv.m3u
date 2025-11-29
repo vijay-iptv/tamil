@@ -99,7 +99,7 @@ http://udigitalott.ridsys.in/riptv/live/stream43/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tatalogo.pages.dev/562.png",Movies Now HD
 http://udigitalott.ridsys.in/riptv/live/stream44/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="IPTV | TAMIL",Murasu TV
-http://ctv.sungohd.com:18869
+http://87.255.35.150:18869/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="IPTV | TAMIL",News 7 Tamil
 http://udigitalott.ridsys.in/riptv/live/stream48/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png" group-title="IPTV | TAMIL",News J
