@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png" group-title="Regional Tamil", Star Vijay HD
+#EXTINF:-1 tvg-id="ts496" tvg-name="Star Vijay HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Vijay_HD.png" group-title="IPTV | TAMIL", Star Vijay HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002) 
 https://tv.vaanam24.com/live.m3u8?c=VIJAYTV
 
-#EXTINF:-1 tvg-id="ts1182" tvg-name="Zee Thirai HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png" group-title="Regional Tamil", Star Vijay HD
+#EXTINF:-1 tvg-id="ts1182" tvg-name="Zee Thirai HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai_HD.png" group-title="IPTV | TAMIL", Zee Thirai HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002) 
-https://tv.vaanam24.com/live.m3u8?c=ZEETHIRAI
+https://tv.vaanam24.com/live.m3u8?c=ZEETHIRAITV
 
-#EXTINF:-1 tvg-id="ts608" tvg-name="Zee Tamil HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png" group-title="Regional Tamil", Star Vijay HD
+#EXTINF:-1 tvg-id="ts608" tvg-name="Zee Tamil HD" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Tamil_HD.png" group-title="IPTV | TAMIL", Zee Tamil HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; Pixel 4 Build/RD2A.211001.002) 
-https://tv.vaanam24.com/live.m3u8?c=ZEETAMIL
+https://tv.vaanam24.com/live.m3u8?c=ZEETAMILTV
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV | TAMIL",7s Music
