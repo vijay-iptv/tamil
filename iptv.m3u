@@ -190,9 +190,8 @@ https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd
 https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd
 #EXTINF:-1  tvg-name="ts1388" group-title="IPTV | TAMIL" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/UTV.png",UTV
 https://cable92tataplay.akamaized.net/live/utv/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://m3u.ygxworld.in/p/KzKr3LpT0jEe/sgo/widevine/getlicense?id=143247
-#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" tvg-chno="762" group-title="Movies - Hindi",Sony Pix HD SunDirectGo
-#EXTVLCOPT:http-user-agent=Safari/537.36
-https://sundirectgo-live.pc.cdn.bitgravity.com/hd24/dth.mpd
+
+#EXTINF:-1 tvg-id="0-9-224" group-title="New-Zee5-Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Zee_Thirai.png",Zee Thirai HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36 
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiHDELE/index-connected.m3u8?hdntl=exp=1765763311~acl=%2f*~id=f8bb4d01-ab9e-45eb-a15d-84e9dbb1e1c3~data=hdntl~hmac=0476899552d9583a66a2013b7c302e56004bb807dde43fbd27149541805bb362
 
