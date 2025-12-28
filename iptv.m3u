@@ -54,7 +54,7 @@ http://udigitalott.ridsys.in/riptv/live/stream18/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1559001389932035184628100.png",G TV
 http://udigitalott.ridsys.in/riptv/live/stream19/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Isai_Aruvi.png" group-title="IPTV | TAMIL",Isaiaruvi
-http://udigitalott.ridsys.in/riptv/live/stream21/index.m3u8
+https://edge2-moblive.yuppcdn.net/drm1/smil:isaiaruvitvdrm.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Jaya_Movies.png" group-title="IPTV | TAMIL",J Movie
 http://udigitalott.ridsys.in/riptv/live/stream103/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_1534517445168231996112292.png",Jaiguru HD
@@ -96,7 +96,7 @@ http://udigitalott.ridsys.in/riptv/live/stream43/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="https://tatalogo.pages.dev/562.png",Movies Now HD
 http://udigitalott.ridsys.in/riptv/live/stream44/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Murasu.png" group-title="IPTV | TAMIL",Murasu TV
-http://87.255.35.150:18869/index.ts
+https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_7.png" group-title="IPTV | TAMIL",News 7 Tamil
 http://udigitalott.ridsys.in/riptv/live/stream48/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/News_J.png" group-title="IPTV | TAMIL",News J
@@ -132,7 +132,7 @@ http://udigitalott.ridsys.in/riptv/live/stream65/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL" tvg-logo="http://udigitalott.ridsys.in/riptv/iptv/channels/singam%20333333.png",Singam HD
 http://udigitalott.ridsys.in/riptv/live/stream67/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Siripoli.png" group-title="IPTV | TAMIL",Sirippoli
-http://udigitalott.ridsys.in/riptv/live/stream27/index.m3u8
+https://edge2-moblive.yuppcdn.net/drm1/smil:sirippolitvdrm.smil/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sony_BBC_Earth_HD.png" group-title="IPTV | TAMIL",Sony BBC Earth HD
 http://udigitalott.ridsys.in/riptv/live/stream107/index.m3u8
 #EXTINF:-1 group-title="IPTV | TAMIL",Sony Ten 1 HD
