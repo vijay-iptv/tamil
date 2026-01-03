@@ -4,7 +4,7 @@
 https://tv.vaanam24.com/live.m3u8?c=VIJAYTV
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/7s_Music.png" group-title="IPTV | TAMIL",7s Music
-http://202.164.50.194:8000/play/a026/index.m3u8 
+https://mumt03.tangotv.in/7SMUSIC/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E8xTWtSnMgEUeGPKw4bN0w", "kid":"79sqjTkVHMOfS1HXYs+cEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Cinemax" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Cinemax.png" group-title="IPTV | TAMIL",Cinemax HD
